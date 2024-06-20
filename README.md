@@ -9,7 +9,7 @@ Installation
 ### Clone this repository:
 
 ### bash
-git clone https://github.com/avinash1217/sunlight-calculator.git
+git clone https://github.com/akomera-ext/sunlight-calculator.git
 cd sunlight-calculator
 
 ### Install dependencies:
