@@ -1,0 +1,6000 @@
+[{
+  "name": "Kainghari",
+  "countryCode": "NP",
+  "latitude": 29.1139,
+  "longitude": 80.5144
+},
+{
+  "name": "Kissári",
+  "countryCode": "GR",
+  "latitude": 41.2719,
+  "longitude": 26.3992
+},
+{
+  "name": "Sabang",
+  "countryCode": "NP",
+  "latitude": 28.618,
+  "longitude": 82.7334
+},
+{
+  "name": "Desa Balagedog",
+  "countryCode": "ID",
+  "latitude": -6.7644,
+  "longitude": 108.3592
+},
+{
+  "name": "Kisvenyimfelsőpuszta",
+  "countryCode": "HU",
+  "latitude": 46.9931,
+  "longitude": 18.7586
+},
+{
+  "name": "Goyencourt",
+  "countryCode": "FR",
+  "latitude": 49.7256,
+  "longitude": 2.7641
+},
+{
+  "name": "Hallesætra",
+  "countryCode": "NO",
+  "latitude": 59.0398,
+  "longitude": 9.9137
+},
+{
+  "name": "Pelvoux",
+  "countryCode": "FR",
+  "latitude": 44.8804,
+  "longitude": 6.4888
+},
+{
+  "name": "Wellow",
+  "countryCode": "GB",
+  "latitude": 50.9771,
+  "longitude": -1.566
+},
+{
+  "name": "Nabokino",
+  "countryCode": "RU",
+  "latitude": 51.381,
+  "longitude": 37.881
+},
+{
+  "name": "Salsigne",
+  "countryCode": "FR",
+  "latitude": 43.3301,
+  "longitude": 2.3568
+},
+{
+  "name": "Ruhoko",
+  "countryCode": "RW",
+  "latitude": -1.7243,
+  "longitude": 29.8915
+},
+{
+  "name": "Korbolikha",
+  "countryCode": "RU",
+  "latitude": 51.0972,
+  "longitude": 81.9642
+},
+{
+  "name": "Sygannakh",
+  "countryCode": "RU",
+  "latitude": 67.7833,
+  "longitude": 144.2
+},
+{
+  "name": "LesQuatres Chemins",
+  "countryCode": "BE",
+  "latitude": 50.5109,
+  "longitude": 3.5179
+},
+{
+  "name": "Terp",
+  "countryCode": "DK",
+  "latitude": 57.102,
+  "longitude": 9.179
+},
+{
+  "name": "Town of Lee",
+  "countryCode": "US",
+  "latitude": 42.302,
+  "longitude": -73.2342
+},
+{
+  "name": "Pokrovka",
+  "countryCode": "KZ",
+  "latitude": 51.3305,
+  "longitude": 70.5228
+},
+{
+  "name": "Neily",
+  "countryCode": "CR",
+  "latitude": 8.6483,
+  "longitude": -82.941
+},
+{
+  "name": "Mauguisan",
+  "countryCode": "PH",
+  "latitude": 11.295,
+  "longitude": 124.6639
+},
+{
+  "name": "Herendești",
+  "countryCode": "RO",
+  "latitude": 45.6507,
+  "longitude": 21.8587
+},
+{
+  "name": "Parchanas",
+  "countryCode": "PT",
+  "latitude": 38.2795,
+  "longitude": -8.3995
+},
+{
+  "name": "Los Higos",
+  "countryCode": "DO",
+  "latitude": 18.2829,
+  "longitude": -71.2041
+},
+{
+  "name": "Pulica",
+  "countryCode": "IT",
+  "latitude": 44.1448,
+  "longitude": 10.0437
+},
+{
+  "name": "Eller",
+  "countryCode": "DE",
+  "latitude": 50.101,
+  "longitude": 7.1433
+},
+{
+  "name": "Zinca",
+  "countryCode": "RO",
+  "latitude": 44.6,
+  "longitude": 25.4
+},
+{
+  "name": "Bark",
+  "countryCode": "DE",
+  "latitude": 53.9115,
+  "longitude": 10.1795
+},
+{
+  "name": "Marofoty",
+  "countryCode": "MG",
+  "latitude": -25.222,
+  "longitude": 45.956
+},
+{
+  "name": "Kimberley",
+  "countryCode": "GB",
+  "latitude": 52.9953,
+  "longitude": -1.2643
+},
+{
+  "name": "Rittmarshausen",
+  "countryCode": "DE",
+  "latitude": 51.4821,
+  "longitude": 10.1048
+},
+{
+  "name": "Perdikóvrysi",
+  "countryCode": "GR",
+  "latitude": 38.63,
+  "longitude": 22.5803
+},
+{
+  "name": "Zamilpa",
+  "countryCode": "MX",
+  "latitude": 22.1458,
+  "longitude": -100.9819
+},
+{
+  "name": "Gupti",
+  "countryCode": "NP",
+  "latitude": 27.5261,
+  "longitude": 85.7372
+},
+{
+  "name": "Belfahy",
+  "countryCode": "FR",
+  "latitude": 47.7833,
+  "longitude": 6.7333
+},
+{
+  "name": "Kampung Haktiebou",
+  "countryCode": "ID",
+  "latitude": -1.2697,
+  "longitude": 133.9881
+},
+{
+  "name": "Skiemonys",
+  "countryCode": "LT",
+  "latitude": 55.4184,
+  "longitude": 25.2739
+},
+{
+  "name": "Dingyun",
+  "countryCode": "CN",
+  "latitude": 25.9462,
+  "longitude": 105.555
+},
+{
+  "name": "Kronsgart",
+  "countryCode": "CA",
+  "latitude": 49.2786,
+  "longitude": -97.8476
+},
+{
+  "name": "Amparafaravola",
+  "countryCode": "MG",
+  "latitude": -17.5876,
+  "longitude": 48.2239
+},
+{
+  "name": "Oporets",
+  "countryCode": "UA",
+  "latitude": 48.7855,
+  "longitude": 23.3428
+},
+{
+  "name": "Mast",
+  "countryCode": "IR",
+  "latitude": 28.4833,
+  "longitude": 55.0333
+},
+{
+  "name": "Campestre Villa Alejandra",
+  "countryCode": "MX",
+  "latitude": 19.0439,
+  "longitude": -98.2542
+},
+{
+  "name": "Lapham",
+  "countryCode": "US",
+  "latitude": 34.1806,
+  "longitude": -112.4021
+},
+{
+  "name": "Bruggerhuizen",
+  "countryCode": "NL",
+  "latitude": 51.3283,
+  "longitude": 5.4806
+},
+{
+  "name": "Finlah",
+  "countryCode": "SY",
+  "latitude": 36.1897,
+  "longitude": 40.5893
+},
+{
+  "name": "El Manguito",
+  "countryCode": "DO",
+  "latitude": 19.1849,
+  "longitude": -69.9224
+},
+{
+  "name": "Republic",
+  "countryCode": "US",
+  "latitude": 39.9236,
+  "longitude": -97.8217
+},
+{
+  "name": "Mahalla",
+  "countryCode": "LK",
+  "latitude": 7.0387,
+  "longitude": 80.2234
+},
+{
+  "name": "Poulgorm Bridge",
+  "countryCode": "IE",
+  "latitude": 51.9806,
+  "longitude": -9.3114
+},
+{
+  "name": "San Jose",
+  "countryCode": "PY",
+  "latitude": -24.429,
+  "longitude": -57.1278
+},
+{
+  "name": "Hirosechō-fube",
+  "countryCode": "JP",
+  "latitude": 35.3,
+  "longitude": 133.15
+},
+{
+  "name": "Viikki",
+  "countryCode": "FI",
+  "latitude": 60.2218,
+  "longitude": 25.0239
+},
+{
+  "name": "Longueville",
+  "countryCode": "FR",
+  "latitude": 48.515,
+  "longitude": 3.2468
+},
+{
+  "name": "Hay El Farah",
+  "countryCode": "MA",
+  "latitude": 32.2367,
+  "longitude": -7.9525
+},
+{
+  "name": "Yurskiye Dvory",
+  "countryCode": "RU",
+  "latitude": 52.188,
+  "longitude": 37.845
+},
+{
+  "name": "Novoye Lybayevo",
+  "countryCode": "RU",
+  "latitude": 56.4887,
+  "longitude": 66.3489
+},
+{
+  "name": "La Lisa",
+  "countryCode": "CU",
+  "latitude": 22.6667,
+  "longitude": -80.7667
+},
+{
+  "name": "Joa",
+  "countryCode": "DO",
+  "latitude": 18.6129,
+  "longitude": -70.1743
+},
+{
+  "name": "La Pipa",
+  "countryCode": "ES",
+  "latitude": 43.5387,
+  "longitude": -5.6189
+},
+{
+  "name": "Greenbank",
+  "countryCode": "GB",
+  "latitude": 50.3775,
+  "longitude": -4.131
+},
+{
+  "name": "Liba",
+  "countryCode": "ID",
+  "latitude": -8.5667,
+  "longitude": 122.05
+},
+{
+  "name": "Nytorp",
+  "countryCode": "SE",
+  "latitude": 63.95,
+  "longitude": 19.2667
+},
+{
+  "name": "Tamita",
+  "countryCode": "GN",
+  "latitude": 10.4833,
+  "longitude": -14.3167
+},
+{
+  "name": "Mikkola",
+  "countryCode": "FI",
+  "latitude": 67.4786,
+  "longitude": 26.1144
+},
+{
+  "name": "Sincan",
+  "countryCode": "TR",
+  "latitude": 40.0413,
+  "longitude": 34.9133
+},
+{
+  "name": "La Hagieni",
+  "countryCode": "RO",
+  "latitude": 47.05,
+  "longitude": 27.1167
+},
+{
+  "name": "Mountádos",
+  "countryCode": "GR",
+  "latitude": 37.5657,
+  "longitude": 25.1787
+},
+{
+  "name": "Chmielów",
+  "countryCode": "PL",
+  "latitude": 52.4172,
+  "longitude": 22.1524
+},
+{
+  "name": "Pechikhino",
+  "countryCode": "RU",
+  "latitude": 58.8454,
+  "longitude": 42.1519
+},
+{
+  "name": "Vista de Sol",
+  "countryCode": "PR",
+  "latitude": 18.0727,
+  "longitude": -66.361
+},
+{
+  "name": "Kolonia Rąbień",
+  "countryCode": "PL",
+  "latitude": 51.8,
+  "longitude": 19.3167
+},
+{
+  "name": "Tsihary",
+  "countryCode": "MG",
+  "latitude": -24.0457,
+  "longitude": 47.3707
+},
+{
+  "name": "Pocahontas Municipal Flughafen (POH)",
+  "countryCode": "US",
+  "latitude": 42.7458,
+  "longitude": -94.6533
+},
+{
+  "name": "Cotorrera",
+  "countryCode": "VE",
+  "latitude": 10.6833,
+  "longitude": -71.6
+},
+{
+  "name": "Åreklett",
+  "countryCode": "NO",
+  "latitude": 61.4833,
+  "longitude": 5.6333
+},
+{
+  "name": "Yekaterinovka",
+  "countryCode": "RU",
+  "latitude": 52.2437,
+  "longitude": 37.6931
+},
+{
+  "name": "Aththimoddai",
+  "countryCode": "LK",
+  "latitude": 9.0528,
+  "longitude": 80.0931
+},
+{
+  "name": "Borough of Riverton",
+  "countryCode": "US",
+  "latitude": 40.0116,
+  "longitude": -75.0149
+},
+{
+  "name": "La Scilga",
+  "countryCode": "IT",
+  "latitude": 42.5234,
+  "longitude": 12.8218
+},
+{
+  "name": "Tema",
+  "countryCode": "RW",
+  "latitude": -2.2192,
+  "longitude": 29.3636
+},
+{
+  "name": "Vesëlyy",
+  "countryCode": "RU",
+  "latitude": 51.1351,
+  "longitude": 132.9353
+},
+{
+  "name": "Yeniköy",
+  "countryCode": "TR",
+  "latitude": 38.3088,
+  "longitude": 29.8768
+},
+{
+  "name": "Olchówki",
+  "countryCode": "PL",
+  "latitude": 50.1534,
+  "longitude": 19.6113
+},
+{
+  "name": "Thulo Padhera",
+  "countryCode": "NP",
+  "latitude": 28.0713,
+  "longitude": 83.6469
+},
+{
+  "name": "Nishinomiya",
+  "countryCode": "JP",
+  "latitude": 36.7556,
+  "longitude": 137.2311
+},
+{
+  "name": "Sereno",
+  "countryCode": "RU",
+  "latitude": 56.5997,
+  "longitude": 28.3599
+},
+{
+  "name": "Bizh",
+  "countryCode": "UA",
+  "latitude": 50.974,
+  "longitude": 33.8329
+},
+{
+  "name": "Kleingsenget",
+  "countryCode": "DE",
+  "latitude": 48.719,
+  "longitude": 13.752
+},
+{
+  "name": "Sempadu",
+  "countryCode": "LK",
+  "latitude": 8.6324,
+  "longitude": 81.2189
+},
+{
+  "name": "Guanaba",
+  "countryCode": "AU",
+  "latitude": -27.9381,
+  "longitude": 153.2393
+},
+{
+  "name": "Nduba",
+  "countryCode": "RW",
+  "latitude": -1.7971,
+  "longitude": 30.3838
+},
+{
+  "name": "Zanesville Municipal Flughafen (ZZV)",
+  "countryCode": "US",
+  "latitude": 39.9442,
+  "longitude": -81.8921
+},
+{
+  "name": "Trishule",
+  "countryCode": "NP",
+  "latitude": 27.2738,
+  "longitude": 87.3104
+},
+{
+  "name": "Lönnåsen",
+  "countryCode": "SE",
+  "latitude": 59.5333,
+  "longitude": 14.9167
+},
+{
+  "name": "Lomigorić Mahala",
+  "countryCode": "BA",
+  "latitude": 44.7345,
+  "longitude": 19.1116
+},
+{
+  "name": "Rockenfeld",
+  "countryCode": "DE",
+  "latitude": 50.5003,
+  "longitude": 7.3937
+},
+{
+  "name": "Longshanlu",
+  "countryCode": "CN",
+  "latitude": 34.8781,
+  "longitude": 117.546
+},
+{
+  "name": "San Salvador",
+  "countryCode": "PE",
+  "latitude": -13.4936,
+  "longitude": -71.7739
+},
+{
+  "name": "Stølo",
+  "countryCode": "NO",
+  "latitude": 59.8033,
+  "longitude": 5.176
+},
+{
+  "name": "Sibbersbo",
+  "countryCode": "SE",
+  "latitude": 60.55,
+  "longitude": 16.3667
+},
+{
+  "name": "Xã Kim Trung",
+  "countryCode": "VN",
+  "latitude": 19.967,
+  "longitude": 106.0656
+},
+{
+  "name": "Čutkovići",
+  "countryCode": "BA",
+  "latitude": 44.7408,
+  "longitude": 17.0742
+},
+{
+  "name": "Gernstedt",
+  "countryCode": "DE",
+  "latitude": 51.1159,
+  "longitude": 11.6129
+},
+{
+  "name": "Jokići",
+  "countryCode": "BA",
+  "latitude": 44.9173,
+  "longitude": 16.9158
+},
+{
+  "name": "Brookfield",
+  "countryCode": "NZ",
+  "latitude": -37.6899,
+  "longitude": 176.136
+},
+{
+  "name": "Pipalsaini",
+  "countryCode": "NP",
+  "latitude": 28.926,
+  "longitude": 81.0016
+},
+{
+  "name": "Betaramahamay",
+  "countryCode": "MG",
+  "latitude": -15.997,
+  "longitude": 46.8069
+},
+{
+  "name": "Oberdorf",
+  "countryCode": "AT",
+  "latitude": 48.5118,
+  "longitude": 14.3835
+},
+{
+  "name": "Sīdama Āwraja",
+  "countryCode": "ET",
+  "latitude": 6.75,
+  "longitude": 38.5
+},
+{
+  "name": "Piesendorf",
+  "countryCode": "AT",
+  "latitude": 47.2919,
+  "longitude": 12.7103
+},
+{
+  "name": "El Carrizal",
+  "countryCode": "SV",
+  "latitude": 14.2,
+  "longitude": -89.0833
+},
+{
+  "name": "Moordiek",
+  "countryCode": "DE",
+  "latitude": 53.914,
+  "longitude": 9.6534
+},
+{
+  "name": "Cives de Arriba",
+  "countryCode": "ES",
+  "latitude": 42.9326,
+  "longitude": -9.0275
+},
+{
+  "name": "Leninets",
+  "countryCode": "BY",
+  "latitude": 51.7666,
+  "longitude": 30.2527
+},
+{
+  "name": "Yakovlevo",
+  "countryCode": "RU",
+  "latitude": 55.77,
+  "longitude": 42.5932
+},
+{
+  "name": "Bestuzhevka",
+  "countryCode": "RU",
+  "latitude": 53.7241,
+  "longitude": 47.736
+},
+{
+  "name": "Indios Barrio",
+  "countryCode": "PR",
+  "latitude": 18.0079,
+  "longitude": -66.8098
+},
+{
+  "name": "Chudý Laz",
+  "countryCode": "SK",
+  "latitude": 48.6,
+  "longitude": 21.05
+},
+{
+  "name": "Plopi",
+  "countryCode": "RO",
+  "latitude": 46.6579,
+  "longitude": 23.3502
+},
+{
+  "name": "Kanango",
+  "countryCode": "RW",
+  "latitude": -1.9524,
+  "longitude": 30.5474
+},
+{
+  "name": "Compañía San Solano",
+  "countryCode": "PY",
+  "latitude": -26.803,
+  "longitude": -56.1569
+},
+{
+  "name": "Illilawa",
+  "countryCode": "AU",
+  "latitude": -34.4777,
+  "longitude": 144.9779
+},
+{
+  "name": "Rahivere küla",
+  "countryCode": "EE",
+  "latitude": 58.6753,
+  "longitude": 26.7257
+},
+{
+  "name": "Øsløs",
+  "countryCode": "DK",
+  "latitude": 57.0279,
+  "longitude": 9.0098
+},
+{
+  "name": "Township of Baer",
+  "countryCode": "US",
+  "latitude": 46.2445,
+  "longitude": -102.0604
+},
+{
+  "name": "Lozoriškės",
+  "countryCode": "LT",
+  "latitude": 54.8503,
+  "longitude": 25.6258
+},
+{
+  "name": "Embouchure",
+  "countryCode": "HT",
+  "latitude": 18.3364,
+  "longitude": -72.5444
+},
+{
+  "name": "Wetterstation Karachi Masroor",
+  "countryCode": "PK",
+  "latitude": 24.9,
+  "longitude": 66.9333
+},
+{
+  "name": "Roten",
+  "countryCode": "SE",
+  "latitude": 62.6457,
+  "longitude": 17.5244
+},
+{
+  "name": "Daha",
+  "countryCode": "NP",
+  "latitude": 29.6346,
+  "longitude": 80.919
+},
+{
+  "name": "Bione",
+  "countryCode": "IT",
+  "latitude": 45.6728,
+  "longitude": 10.3389
+},
+{
+  "name": "Zorlaci",
+  "countryCode": "BA",
+  "latitude": 43.7144,
+  "longitude": 18.9794
+},
+{
+  "name": "Guruløkka",
+  "countryCode": "NO",
+  "latitude": 59.615,
+  "longitude": 10.1368
+},
+{
+  "name": "Brkljača",
+  "countryCode": "ME",
+  "latitude": 43.2622,
+  "longitude": 19.4642
+},
+{
+  "name": "Ober Büschem",
+  "countryCode": "DE",
+  "latitude": 51.0661,
+  "longitude": 7.3813
+},
+{
+  "name": "Foz da Sertã",
+  "countryCode": "PT",
+  "latitude": 39.7619,
+  "longitude": -8.2293
+},
+{
+  "name": "Xinyi",
+  "countryCode": "CN",
+  "latitude": 34.3842,
+  "longitude": 118.3462
+},
+{
+  "name": "Taboão da Serra",
+  "countryCode": "BR",
+  "latitude": -23.6261,
+  "longitude": -46.7917
+},
+{
+  "name": "Gajine",
+  "countryCode": "ME",
+  "latitude": 43.395,
+  "longitude": 19.2814
+},
+{
+  "name": "Figueiredo",
+  "countryCode": "PT",
+  "latitude": 41.262,
+  "longitude": -8.0853
+},
+{
+  "name": "Markovići",
+  "countryCode": "BA",
+  "latitude": 44.0142,
+  "longitude": 19.3278
+},
+{
+  "name": "Gangzui Village",
+  "countryCode": "TW",
+  "latitude": 22.4933,
+  "longitude": 120.3834
+},
+{
+  "name": "Wulverdinghe",
+  "countryCode": "FR",
+  "latitude": 50.8314,
+  "longitude": 2.2562
+},
+{
+  "name": "Jatake",
+  "countryCode": "ID",
+  "latitude": -6.8727,
+  "longitude": 106.2564
+},
+{
+  "name": "Gorodnya",
+  "countryCode": "RU",
+  "latitude": 56.7055,
+  "longitude": 36.3179
+},
+{
+  "name": "Beaussault",
+  "countryCode": "FR",
+  "latitude": 49.6852,
+  "longitude": 1.5629
+},
+{
+  "name": "Alte Burg",
+  "countryCode": "DE",
+  "latitude": 50.4027,
+  "longitude": 6.8218
+},
+{
+  "name": "Krasnonikol’sk",
+  "countryCode": "RU",
+  "latitude": 55.612,
+  "longitude": 75.4147
+},
+{
+  "name": "Dumela",
+  "countryCode": "BW",
+  "latitude": -21.1125,
+  "longitude": 27.5348
+},
+{
+  "name": "Quälhof",
+  "countryCode": "DE",
+  "latitude": 54.2177,
+  "longitude": 10.997
+},
+{
+  "name": "Town of Jaffrey",
+  "countryCode": "US",
+  "latitude": 42.8295,
+  "longitude": -72.0597
+},
+{
+  "name": "Mukuyu",
+  "countryCode": "RW",
+  "latitude": -1.9027,
+  "longitude": 30.1905
+},
+{
+  "name": "Dötting",
+  "countryCode": "AT",
+  "latitude": 48.1815,
+  "longitude": 13.2791
+},
+{
+  "name": "Sendražice",
+  "countryCode": "CZ",
+  "latitude": 50.2933,
+  "longitude": 15.8015
+},
+{
+  "name": "Ulazovichi",
+  "countryCode": "BY",
+  "latitude": 54.0779,
+  "longitude": 26.4849
+},
+{
+  "name": "Gampong Seuneubok Dalam",
+  "countryCode": "ID",
+  "latitude": 4.9878,
+  "longitude": 97.6628
+},
+{
+  "name": "Wang Manao",
+  "countryCode": "TH",
+  "latitude": 13.3446,
+  "longitude": 99.8112
+},
+{
+  "name": "Blahovishchenka",
+  "countryCode": "UA",
+  "latitude": 47.276,
+  "longitude": 36.7765
+},
+{
+  "name": "Via Marzaglia",
+  "countryCode": "IT",
+  "latitude": 44.6178,
+  "longitude": 10.7946
+},
+{
+  "name": "Nakamura",
+  "countryCode": "JP",
+  "latitude": 33.0845,
+  "longitude": 130.0257
+},
+{
+  "name": "Lipit",
+  "countryCode": "PH",
+  "latitude": 15.8232,
+  "longitude": 121.5399
+},
+{
+  "name": "Okunëvo",
+  "countryCode": "RU",
+  "latitude": 56.4431,
+  "longitude": 74.9087
+},
+{
+  "name": "Samga-dong",
+  "countryCode": "KR",
+  "latitude": 37.2389,
+  "longitude": 127.1594
+},
+{
+  "name": "Berrande",
+  "countryCode": "ES",
+  "latitude": 41.9171,
+  "longitude": -7.2197
+},
+{
+  "name": "Mavulja",
+  "countryCode": "BA",
+  "latitude": 43.5661,
+  "longitude": 18.8444
+},
+{
+  "name": "Bocksmühle",
+  "countryCode": "DE",
+  "latitude": 50.7633,
+  "longitude": 6.2107
+},
+{
+  "name": "Kalyan",
+  "countryCode": "NP",
+  "latitude": 28.5138,
+  "longitude": 81.7372
+},
+{
+  "name": "Ninaj",
+  "countryCode": "XK",
+  "latitude": 42.1989,
+  "longitude": 20.5611
+},
+{
+  "name": "Salaorno",
+  "countryCode": "IT",
+  "latitude": 45.5978,
+  "longitude": 11.0882
+},
+{
+  "name": "Yuḩayr",
+  "countryCode": "YE",
+  "latitude": 14.2064,
+  "longitude": 44.5045
+},
+{
+  "name": "Dilāni",
+  "countryCode": "LV",
+  "latitude": 56.4087,
+  "longitude": 28.1205
+},
+{
+  "name": "Sadakhawa",
+  "countryCode": "NP",
+  "latitude": 27.4652,
+  "longitude": 83.3636
+},
+{
+  "name": "Gurmani",
+  "countryCode": "PK",
+  "latitude": 30.4182,
+  "longitude": 71.1171
+},
+{
+  "name": "Lacken",
+  "countryCode": "DE",
+  "latitude": 48.6671,
+  "longitude": 13.6146
+},
+{
+  "name": "Jiusuo",
+  "countryCode": "CN",
+  "latitude": 18.4443,
+  "longitude": 108.9102
+},
+{
+  "name": "Tatlayoko Lake",
+  "countryCode": "CA",
+  "latitude": 51.7165,
+  "longitude": -124.4364
+},
+{
+  "name": "Hormiguero",
+  "countryCode": "VE",
+  "latitude": 8.3583,
+  "longitude": -71.9361
+},
+{
+  "name": "Grischow",
+  "countryCode": "DE",
+  "latitude": 54.0557,
+  "longitude": 13.0652
+},
+{
+  "name": "Kelurahan Sukakarya",
+  "countryCode": "ID",
+  "latitude": -6.9267,
+  "longitude": 106.9061
+},
+{
+  "name": "Aefeo",
+  "countryCode": "ID",
+  "latitude": -8.7633,
+  "longitude": 121.6739
+},
+{
+  "name": "Vidonín",
+  "countryCode": "CZ",
+  "latitude": 49.3792,
+  "longitude": 16.2232
+},
+{
+  "name": "São João Batista",
+  "countryCode": "BR",
+  "latitude": -27.2761,
+  "longitude": -48.8494
+},
+{
+  "name": "Nardini",
+  "countryCode": "IT",
+  "latitude": 43.8426,
+  "longitude": 10.9115
+},
+{
+  "name": "Shaheed Smarak",
+  "countryCode": "IN",
+  "latitude": 23.1701,
+  "longitude": 79.9271
+},
+{
+  "name": "Kamai",
+  "countryCode": "BY",
+  "latitude": 55.0595,
+  "longitude": 26.607
+},
+{
+  "name": "Bhairahawā (BWA)",
+  "countryCode": "NP",
+  "latitude": 27.5057,
+  "longitude": 83.4163
+},
+{
+  "name": "Pita",
+  "countryCode": "GN",
+  "latitude": 10.8333,
+  "longitude": -12.5833
+},
+{
+  "name": "Bełczna",
+  "countryCode": "PL",
+  "latitude": 53.7142,
+  "longitude": 15.5922
+},
+{
+  "name": "Plötzenedt",
+  "countryCode": "AT",
+  "latitude": 48.079,
+  "longitude": 13.6392
+},
+{
+  "name": "Éternoz",
+  "countryCode": "FR",
+  "latitude": 47.0072,
+  "longitude": 6.0294
+},
+{
+  "name": "Obersteinebach",
+  "countryCode": "DE",
+  "latitude": 50.5909,
+  "longitude": 7.4881
+},
+{
+  "name": "Utrata",
+  "countryCode": "PL",
+  "latitude": 52.2617,
+  "longitude": 21.1028
+},
+{
+  "name": "Treasure County",
+  "countryCode": "US",
+  "latitude": 46.2115,
+  "longitude": -107.2717
+},
+{
+  "name": "Tioso Dua",
+  "countryCode": "ID",
+  "latitude": -7.3528,
+  "longitude": 109.8322
+},
+{
+  "name": "Jinačovice",
+  "countryCode": "CZ",
+  "latitude": 49.2679,
+  "longitude": 16.5276
+},
+{
+  "name": "Bhusnagade",
+  "countryCode": "NP",
+  "latitude": 28.5558,
+  "longitude": 82.5808
+},
+{
+  "name": "Vtoraya Muratovka",
+  "countryCode": "RU",
+  "latitude": 52.5348,
+  "longitude": 37.096
+},
+{
+  "name": "Ollon",
+  "countryCode": "CH",
+  "latitude": 46.2952,
+  "longitude": 6.9931
+},
+{
+  "name": "Frombork",
+  "countryCode": "PL",
+  "latitude": 54.3581,
+  "longitude": 19.6858
+},
+{
+  "name": "Mbo",
+  "countryCode": "CD",
+  "latitude": -6.1363,
+  "longitude": 24.781
+},
+{
+  "name": "Bhalayatar",
+  "countryCode": "NP",
+  "latitude": 27.8684,
+  "longitude": 83.9455
+},
+{
+  "name": "Sechuga",
+  "countryCode": "RU",
+  "latitude": 55.7496,
+  "longitude": 43.869
+},
+{
+  "name": "Brdo",
+  "countryCode": "CZ",
+  "latitude": 50.0029,
+  "longitude": 13.2622
+},
+{
+  "name": "Smagorin",
+  "countryCode": "BY",
+  "latitude": 52.1671,
+  "longitude": 30.3417
+},
+{
+  "name": "Noßdorf",
+  "countryCode": "DE",
+  "latitude": 51.7217,
+  "longitude": 14.6147
+},
+{
+  "name": "Macoszyn Duży",
+  "countryCode": "PL",
+  "latitude": 51.3734,
+  "longitude": 23.5129
+},
+{
+  "name": "Yelwa",
+  "countryCode": "NG",
+  "latitude": 10.4366,
+  "longitude": 7.4328
+},
+{
+  "name": "Yurevichi",
+  "countryCode": "BY",
+  "latitude": 53.4309,
+  "longitude": 25.3501
+},
+{
+  "name": "Rimon-et-Savel",
+  "countryCode": "FR",
+  "latitude": 44.6633,
+  "longitude": 5.3075
+},
+{
+  "name": "Casale",
+  "countryCode": "IT",
+  "latitude": 41.2197,
+  "longitude": 14.0023
+},
+{
+  "name": "Porto Lusio",
+  "countryCode": "PT",
+  "latitude": 40.2167,
+  "longitude": -8.6667
+},
+{
+  "name": "Krasnogorskiy",
+  "countryCode": "RU",
+  "latitude": 51.1608,
+  "longitude": 40.6344
+},
+{
+  "name": "Talhinhas e Bagueixe",
+  "countryCode": "PT",
+  "latitude": 41.5327,
+  "longitude": -6.7355
+},
+{
+  "name": "Germignac",
+  "countryCode": "FR",
+  "latitude": 45.5731,
+  "longitude": -0.3374
+},
+{
+  "name": "Mawmiḩ",
+  "countryCode": "YE",
+  "latitude": 13.7039,
+  "longitude": 44.3739
+},
+{
+  "name": "Haripala",
+  "countryCode": "NP",
+  "latitude": 28.125,
+  "longitude": 83.8672
+},
+{
+  "name": "Waltersdorf an der March",
+  "countryCode": "AT",
+  "latitude": 48.5275,
+  "longitude": 16.8881
+},
+{
+  "name": "Bol’shaya Pochernya",
+  "countryCode": "BY",
+  "latitude": 54.0062,
+  "longitude": 25.529
+},
+{
+  "name": "Ban Nam Rai",
+  "countryCode": "TH",
+  "latitude": 17.6674,
+  "longitude": 99.8778
+},
+{
+  "name": "Myay Ni Taung",
+  "countryCode": "MM",
+  "latitude": 11.808,
+  "longitude": 98.4433
+},
+{
+  "name": "Ampugnano",
+  "countryCode": "IT",
+  "latitude": 43.2695,
+  "longitude": 11.2534
+},
+{
+  "name": "Nambia",
+  "countryCode": "CD",
+  "latitude": -8.1687,
+  "longitude": 27.2823
+},
+{
+  "name": "Güvemalanı",
+  "countryCode": "TR",
+  "latitude": 40.284,
+  "longitude": 27.4748
+},
+{
+  "name": "Anandretry",
+  "countryCode": "MG",
+  "latitude": -23.1969,
+  "longitude": 47.3339
+},
+{
+  "name": "Crofton",
+  "countryCode": "US",
+  "latitude": 38.7793,
+  "longitude": -76.048
+},
+{
+  "name": "Limberg",
+  "countryCode": "AT",
+  "latitude": 48.2858,
+  "longitude": 13.9762
+},
+{
+  "name": "Glinnoye",
+  "countryCode": "RU",
+  "latitude": 52.8656,
+  "longitude": 32.0897
+},
+{
+  "name": "Mariscal López",
+  "countryCode": "PY",
+  "latitude": -25.2872,
+  "longitude": -57.6027
+},
+{
+  "name": "Santo Cristo",
+  "countryCode": "PH",
+  "latitude": 14.957,
+  "longitude": 120.892
+},
+{
+  "name": "Ammuta",
+  "countryCode": "EE",
+  "latitude": 58.9758,
+  "longitude": 25.8428
+},
+{
+  "name": "Pianacci",
+  "countryCode": "IT",
+  "latitude": 44.165,
+  "longitude": 10.378
+},
+{
+  "name": "Flughafen Kochi (COK)",
+  "countryCode": "IN",
+  "latitude": 10.1556,
+  "longitude": 76.3914
+},
+{
+  "name": "Bayali Salla",
+  "countryCode": "NP",
+  "latitude": 29.1433,
+  "longitude": 81.5736
+},
+{
+  "name": "Residenza Aurelia",
+  "countryCode": "IT",
+  "latitude": 41.9041,
+  "longitude": 12.318
+},
+{
+  "name": "Le Pin",
+  "countryCode": "FR",
+  "latitude": 45.3112,
+  "longitude": -0.2896
+},
+{
+  "name": "Bogodarovka",
+  "countryCode": "RU",
+  "latitude": 55.4403,
+  "longitude": 53.0697
+},
+{
+  "name": "Osetnik",
+  "countryCode": "PL",
+  "latitude": 54.1641,
+  "longitude": 19.9728
+},
+{
+  "name": "Saint-Sulpice-d'Excideuil",
+  "countryCode": "FR",
+  "latitude": 45.3894,
+  "longitude": 1.0067
+},
+{
+  "name": "Desa Banangkah",
+  "countryCode": "ID",
+  "latitude": -7.0472,
+  "longitude": 112.8169
+},
+{
+  "name": "Cuku Village",
+  "countryCode": "TW",
+  "latitude": 24.8995,
+  "longitude": 121.6776
+},
+{
+  "name": "Kazanka",
+  "countryCode": "RU",
+  "latitude": 53.335,
+  "longitude": 55.0827
+},
+{
+  "name": "Gisenyi",
+  "countryCode": "BI",
+  "latitude": -3.9951,
+  "longitude": 29.8817
+},
+{
+  "name": "Nagornyy",
+  "countryCode": "RU",
+  "latitude": 54.7308,
+  "longitude": 46.8906
+},
+{
+  "name": "Desa Tolang",
+  "countryCode": "ID",
+  "latitude": 1.5217,
+  "longitude": 99.3225
+},
+{
+  "name": "Windang",
+  "countryCode": "AU",
+  "latitude": -34.5333,
+  "longitude": 150.8667
+},
+{
+  "name": "Oberseiffenbach",
+  "countryCode": "DE",
+  "latitude": 50.6349,
+  "longitude": 13.4479
+},
+{
+  "name": "Tri-County Flughafen",
+  "countryCode": "US",
+  "latitude": 35.2974,
+  "longitude": -77.1711
+},
+{
+  "name": "Pashkovskiy",
+  "countryCode": "RU",
+  "latitude": 45.0345,
+  "longitude": 39.1773
+},
+{
+  "name": "Vendeuvre",
+  "countryCode": "FR",
+  "latitude": 48.9906,
+  "longitude": -0.0752
+},
+{
+  "name": "Manisundarjhora",
+  "countryCode": "NP",
+  "latitude": 26.7245,
+  "longitude": 87.2358
+},
+{
+  "name": "Kumbo",
+  "countryCode": "ID",
+  "latitude": -7.8841,
+  "longitude": 112.7852
+},
+{
+  "name": "Township of Scott Creek",
+  "countryCode": "US",
+  "latitude": 35.4099,
+  "longitude": -83.1093
+},
+{
+  "name": "Zonovo",
+  "countryCode": "RU",
+  "latitude": 55.7303,
+  "longitude": 79.3312
+},
+{
+  "name": "Kapugama Central",
+  "countryCode": "LK",
+  "latitude": 5.938,
+  "longitude": 80.5979
+},
+{
+  "name": "Dren",
+  "countryCode": "BA",
+  "latitude": 44.9355,
+  "longitude": 16.2286
+},
+{
+  "name": "Jarohněvice",
+  "countryCode": "CZ",
+  "latitude": 48.9198,
+  "longitude": 17.0676
+},
+{
+  "name": "Grzybowo Wielkie",
+  "countryCode": "PL",
+  "latitude": 53.1595,
+  "longitude": 20.4951
+},
+{
+  "name": "Khpyuk",
+  "countryCode": "RU",
+  "latitude": 41.6611,
+  "longitude": 47.9536
+},
+{
+  "name": "Bhuvaneshwari̇̄",
+  "countryCode": "NP",
+  "latitude": 27.2482,
+  "longitude": 86.0501
+},
+{
+  "name": "Puranthanti",
+  "countryCode": "NP",
+  "latitude": 28.1247,
+  "longitude": 84.139
+},
+{
+  "name": "Asaraghat",
+  "countryCode": "NP",
+  "latitude": 28.9428,
+  "longitude": 81.441
+},
+{
+  "name": "Duris",
+  "countryCode": "HT",
+  "latitude": 19.7,
+  "longitude": -72.6167
+},
+{
+  "name": "Hay Boulouiz",
+  "countryCode": "MA",
+  "latitude": 34.6779,
+  "longitude": -1.903
+},
+{
+  "name": "Nattwerder",
+  "countryCode": "DE",
+  "latitude": 52.4255,
+  "longitude": 12.9379
+},
+{
+  "name": "Fjärhult",
+  "countryCode": "SE",
+  "latitude": 56.5333,
+  "longitude": 13.4833
+},
+{
+  "name": "Clarac",
+  "countryCode": "FR",
+  "latitude": 43.2221,
+  "longitude": 0.2451
+},
+{
+  "name": "Musalmantol",
+  "countryCode": "NP",
+  "latitude": 26.9323,
+  "longitude": 85.6025
+},
+{
+  "name": "Bazus-Neste",
+  "countryCode": "FR",
+  "latitude": 43.0353,
+  "longitude": 0.3808
+},
+{
+  "name": "Tapera Pezoe",
+  "countryCode": "BO",
+  "latitude": -15.1167,
+  "longitude": -60.45
+},
+{
+  "name": "Mustange Bhote Camp",
+  "countryCode": "NP",
+  "latitude": 28.035,
+  "longitude": 84.0742
+},
+{
+  "name": "Herzogenaurach",
+  "countryCode": "DE",
+  "latitude": 49.5704,
+  "longitude": 10.8897
+},
+{
+  "name": "Serëdka",
+  "countryCode": "RU",
+  "latitude": 56.8152,
+  "longitude": 32.8862
+},
+{
+  "name": "Kecamatan Cluring",
+  "countryCode": "ID",
+  "latitude": -8.4292,
+  "longitude": 114.2319
+},
+{
+  "name": "Languivoa",
+  "countryCode": "FR",
+  "latitude": 47.9096,
+  "longitude": -4.2606
+},
+{
+  "name": "Anjoma Itsara",
+  "countryCode": "MG",
+  "latitude": -21.2213,
+  "longitude": 46.9283
+},
+{
+  "name": "Chaitedanda",
+  "countryCode": "NP",
+  "latitude": 28.0429,
+  "longitude": 84.3666
+},
+{
+  "name": "Dzbanice",
+  "countryCode": "PL",
+  "latitude": 52.6056,
+  "longitude": 21.0768
+},
+{
+  "name": "Chambers",
+  "countryCode": "US",
+  "latitude": 42.205,
+  "longitude": -98.749
+},
+{
+  "name": "Devault",
+  "countryCode": "US",
+  "latitude": 40.0746,
+  "longitude": -75.5352
+},
+{
+  "name": "Banī Isḩāq",
+  "countryCode": "YE",
+  "latitude": 15.215,
+  "longitude": 43.6008
+},
+{
+  "name": "Dabunari",
+  "countryCode": "PG",
+  "latitude": -9.5743,
+  "longitude": 147.3776
+},
+{
+  "name": "Ambaro Mahazoarivo",
+  "countryCode": "MG",
+  "latitude": -25.1983,
+  "longitude": 46.19
+},
+{
+  "name": "Undenebotten",
+  "countryCode": "SE",
+  "latitude": 58.8667,
+  "longitude": 14.5333
+},
+{
+  "name": "Marina di Montemarciano",
+  "countryCode": "IT",
+  "latitude": 43.6506,
+  "longitude": 13.3364
+},
+{
+  "name": "Vizyay",
+  "countryCode": "RU",
+  "latitude": 58.8004,
+  "longitude": 54.1079
+},
+{
+  "name": "Wetterstation Church Lawford",
+  "countryCode": "GB",
+  "latitude": 52.3667,
+  "longitude": -1.3333
+},
+{
+  "name": "Hanneton",
+  "countryCode": "BE",
+  "latitude": 50.4167,
+  "longitude": 3.8
+},
+{
+  "name": "Chhoti Parsiya(Dunga)",
+  "countryCode": "NP",
+  "latitude": 28.755,
+  "longitude": 80.3774
+},
+{
+  "name": "Samaz Qand",
+  "countryCode": "IR",
+  "latitude": 36.3152,
+  "longitude": 59.6131
+},
+{
+  "name": "Bwlchygroes",
+  "countryCode": "GB",
+  "latitude": 51.9945,
+  "longitude": -4.5651
+},
+{
+  "name": "Liutuan",
+  "countryCode": "CN",
+  "latitude": 45.5778,
+  "longitude": 128.4869
+},
+{
+  "name": "Mè-han",
+  "countryCode": "MM",
+  "latitude": 22.8812,
+  "longitude": 97.6974
+},
+{
+  "name": "Budžak",
+  "countryCode": "BA",
+  "latitude": 44.8039,
+  "longitude": 17.2127
+},
+{
+  "name": "Seen (Kreis 3) / Ganzenbühl",
+  "countryCode": "CH",
+  "latitude": 47.481,
+  "longitude": 8.7625
+},
+{
+  "name": "Lufwanyama",
+  "countryCode": "ZM",
+  "latitude": -12.952,
+  "longitude": 27.4174
+},
+{
+  "name": "Juárez",
+  "countryCode": "MX",
+  "latitude": 27.5836,
+  "longitude": -100.6454
+},
+{
+  "name": "Colognora",
+  "countryCode": "IT",
+  "latitude": 43.9827,
+  "longitude": 10.4632
+},
+{
+  "name": "Bento Goncalves Flughafen (BGV)",
+  "countryCode": "BR",
+  "latitude": -29.1483,
+  "longitude": -51.5364
+},
+{
+  "name": "Tux",
+  "countryCode": "AT",
+  "latitude": 47.15,
+  "longitude": 11.75
+},
+{
+  "name": "Nasu-gun",
+  "countryCode": "JP",
+  "latitude": 36.9441,
+  "longitude": 140.1243
+},
+{
+  "name": "Eva",
+  "countryCode": "US",
+  "latitude": 34.3323,
+  "longitude": -86.7589
+},
+{
+  "name": "Marques",
+  "countryCode": "BR",
+  "latitude": -25.4054,
+  "longitude": -48.882
+},
+{
+  "name": "Bogatoye",
+  "countryCode": "RU",
+  "latitude": 54.9064,
+  "longitude": 20.1387
+},
+{
+  "name": "Villa Tabacalera",
+  "countryCode": "DO",
+  "latitude": 19.5719,
+  "longitude": -70.9105
+},
+{
+  "name": "Ban Yai Tai",
+  "countryCode": "TH",
+  "latitude": 20.1093,
+  "longitude": 100.5238
+},
+{
+  "name": "Gīk",
+  "countryCode": "IR",
+  "latitude": 37.3967,
+  "longitude": 48.5228
+},
+{
+  "name": "Verkhnyaya Tuekta",
+  "countryCode": "RU",
+  "latitude": 50.9667,
+  "longitude": 85.7167
+},
+{
+  "name": "Brunni",
+  "countryCode": "CH",
+  "latitude": 47.0449,
+  "longitude": 8.7052
+},
+{
+  "name": "Kulong",
+  "countryCode": "SS",
+  "latitude": 7.2927,
+  "longitude": 30.4869
+},
+{
+  "name": "Geelong",
+  "countryCode": "AU",
+  "latitude": -38.1471,
+  "longitude": 144.3607
+},
+{
+  "name": "Từ Quán",
+  "countryCode": "VN",
+  "latitude": 20.3655,
+  "longitude": 106.2585
+},
+{
+  "name": "Camiare Flughafen",
+  "countryCode": "BO",
+  "latitude": -14.0823,
+  "longitude": -65.6581
+},
+{
+  "name": "Mykolaivka",
+  "countryCode": "UA",
+  "latitude": 49.0207,
+  "longitude": 36.4556
+},
+{
+  "name": "Mieswarz",
+  "countryCode": "DE",
+  "latitude": 50.7565,
+  "longitude": 10.0237
+},
+{
+  "name": "Dikarpu",
+  "countryCode": "NP",
+  "latitude": 27.7147,
+  "longitude": 86.1898
+},
+{
+  "name": "La Palma",
+  "countryCode": "VE",
+  "latitude": 10.4667,
+  "longitude": -70.55
+},
+{
+  "name": "Kąty Opolskie",
+  "countryCode": "PL",
+  "latitude": 50.5593,
+  "longitude": 17.9745
+},
+{
+  "name": "Antsakoamanera",
+  "countryCode": "MG",
+  "latitude": -17.5568,
+  "longitude": 46.0669
+},
+{
+  "name": "Balm b. Günsberg",
+  "countryCode": "CH",
+  "latitude": 47.2531,
+  "longitude": 7.5588
+},
+{
+  "name": "La Sétéria",
+  "countryCode": "FR",
+  "latitude": 45.2658,
+  "longitude": 6.7129
+},
+{
+  "name": "Ngugu",
+  "countryCode": "RW",
+  "latitude": -2.1327,
+  "longitude": 29.2674
+},
+{
+  "name": "8 De Diciembre",
+  "countryCode": "PY",
+  "latitude": -24.9797,
+  "longitude": -54.9069
+},
+{
+  "name": "Bois Robert",
+  "countryCode": "BE",
+  "latitude": 50.5,
+  "longitude": 4.2167
+},
+{
+  "name": "San Agustin",
+  "countryCode": "PY",
+  "latitude": -25.004,
+  "longitude": -57.5539
+},
+{
+  "name": "Karatut",
+  "countryCode": "UZ",
+  "latitude": 38.9097,
+  "longitude": 67.2572
+},
+{
+  "name": "Pressagny-le-Val",
+  "countryCode": "FR",
+  "latitude": 49.1627,
+  "longitude": 1.444
+},
+{
+  "name": "Bassuet",
+  "countryCode": "FR",
+  "latitude": 48.7975,
+  "longitude": 4.6692
+},
+{
+  "name": "El Corozo",
+  "countryCode": "DO",
+  "latitude": 18.5168,
+  "longitude": -69.5194
+},
+{
+  "name": "Ben Romdane",
+  "countryCode": "TN",
+  "latitude": 35.1717,
+  "longitude": 10.2272
+},
+{
+  "name": "Desa Tampemadoro",
+  "countryCode": "ID",
+  "latitude": -1.5778,
+  "longitude": 120.7528
+},
+{
+  "name": "Asp-Mettlen",
+  "countryCode": "CH",
+  "latitude": 47.5274,
+  "longitude": 8.706
+},
+{
+  "name": "Herdegen",
+  "countryCode": "DE",
+  "latitude": 49.4962,
+  "longitude": 12.2716
+},
+{
+  "name": "Saint-Étienne-du-Vauvray",
+  "countryCode": "FR",
+  "latitude": 49.2416,
+  "longitude": 1.2191
+},
+{
+  "name": "Peoria",
+  "countryCode": "US",
+  "latitude": 33.5806,
+  "longitude": -112.2374
+},
+{
+  "name": "Desa Hilinamozaua",
+  "countryCode": "ID",
+  "latitude": 0.6467,
+  "longitude": 97.8364
+},
+{
+  "name": "Zabłotczyzna",
+  "countryCode": "PL",
+  "latitude": 52.8406,
+  "longitude": 23.7422
+},
+{
+  "name": "Merlyugino",
+  "countryCode": "RU",
+  "latitude": 58.2675,
+  "longitude": 31.8153
+},
+{
+  "name": "Oberlingummen",
+  "countryCode": "CH",
+  "latitude": 46.9103,
+  "longitude": 7.8051
+},
+{
+  "name": "Desa Kubangkangkung",
+  "countryCode": "ID",
+  "latitude": -7.6167,
+  "longitude": 108.9514
+},
+{
+  "name": "Lyman",
+  "countryCode": "UA",
+  "latitude": 49.5936,
+  "longitude": 36.4655
+},
+{
+  "name": "San Nicolás",
+  "countryCode": "CU",
+  "latitude": 22.8167,
+  "longitude": -80.2333
+},
+{
+  "name": "Parish Governing Authority District 1",
+  "countryCode": "US",
+  "latitude": 30.1085,
+  "longitude": -90.6835
+},
+{
+  "name": "Fårevejle Stationsby",
+  "countryCode": "DK",
+  "latitude": 55.7857,
+  "longitude": 11.4667
+},
+{
+  "name": "Val-et-Châtillon",
+  "countryCode": "FR",
+  "latitude": 48.5586,
+  "longitude": 6.9661
+},
+{
+  "name": "San Pedro",
+  "countryCode": "PH",
+  "latitude": 17.55,
+  "longitude": 120.3563
+},
+{
+  "name": "Slimeåsen",
+  "countryCode": "NO",
+  "latitude": 59.8284,
+  "longitude": 10.8346
+},
+{
+  "name": "Upper Takutu-Upper Essequibo",
+  "countryCode": "GY",
+  "latitude": 2.9167,
+  "longitude": -59
+},
+{
+  "name": "Desa Bojen",
+  "countryCode": "ID",
+  "latitude": -6.555,
+  "longitude": 105.7869
+},
+{
+  "name": "Táborhegyidűlő",
+  "countryCode": "HU",
+  "latitude": 47.55,
+  "longitude": 19.2667
+},
+{
+  "name": "McMullen County",
+  "countryCode": "US",
+  "latitude": 28.3527,
+  "longitude": -98.5678
+},
+{
+  "name": "Egenhofen",
+  "countryCode": "DE",
+  "latitude": 48.2833,
+  "longitude": 11.1667
+},
+{
+  "name": "Großaitingen",
+  "countryCode": "DE",
+  "latitude": 48.2333,
+  "longitude": 10.7833
+},
+{
+  "name": "Kelurahan Pajalele",
+  "countryCode": "ID",
+  "latitude": -4.0142,
+  "longitude": 119.8025
+},
+{
+  "name": "Merouana",
+  "countryCode": "DZ",
+  "latitude": 35.6311,
+  "longitude": 5.9119
+},
+{
+  "name": "Acqua Santa",
+  "countryCode": "IT",
+  "latitude": 42.0589,
+  "longitude": 13.9033
+},
+{
+  "name": "Yaramary",
+  "countryCode": "RU",
+  "latitude": 56.65,
+  "longitude": 48.4333
+},
+{
+  "name": "Donismühle",
+  "countryCode": "DE",
+  "latitude": 48.8062,
+  "longitude": 10.5541
+},
+{
+  "name": "Chernyany",
+  "countryCode": "RU",
+  "latitude": 55.0081,
+  "longitude": 31.3486
+},
+{
+  "name": "Zion",
+  "countryCode": "US",
+  "latitude": 35.7826,
+  "longitude": -94.6349
+},
+{
+  "name": "Muçum",
+  "countryCode": "BR",
+  "latitude": -29.1402,
+  "longitude": -51.8233
+},
+{
+  "name": "Yamagata",
+  "countryCode": "JP",
+  "latitude": 35.8561,
+  "longitude": 139.5616
+},
+{
+  "name": "Laukuva",
+  "countryCode": "LT",
+  "latitude": 55.6194,
+  "longitude": 22.2331
+},
+{
+  "name": "Shaykh Şāliḩ",
+  "countryCode": "IQ",
+  "latitude": 31.85,
+  "longitude": 47.2
+},
+{
+  "name": "Liscedo",
+  "countryCode": "IT",
+  "latitude": 46.1476,
+  "longitude": 10.122
+},
+{
+  "name": "Miller",
+  "countryCode": "US",
+  "latitude": 42.5492,
+  "longitude": -82.6588
+},
+{
+  "name": "Aktel",
+  "countryCode": "RU",
+  "latitude": 51.65,
+  "longitude": 85.5333
+},
+{
+  "name": "Az Zumaykir",
+  "countryCode": "YE",
+  "latitude": 13.2603,
+  "longitude": 43.4904
+},
+{
+  "name": "Grande Vitória",
+  "countryCode": "BR",
+  "latitude": -3.8351,
+  "longitude": -62.0661
+},
+{
+  "name": "Berkane",
+  "countryCode": "MA",
+  "latitude": 34.9202,
+  "longitude": -2.3318
+},
+{
+  "name": "Wetterstation Curapca",
+  "countryCode": "RU",
+  "latitude": 62.0333,
+  "longitude": 132.6
+},
+{
+  "name": "La Montaña",
+  "countryCode": "VE",
+  "latitude": 9.7134,
+  "longitude": -70.0493
+},
+{
+  "name": "Ballerías",
+  "countryCode": "ES",
+  "latitude": 41.902,
+  "longitude": -0.1554
+},
+{
+  "name": "Reinshagen",
+  "countryCode": "DE",
+  "latitude": 50.8676,
+  "longitude": 7.4223
+},
+{
+  "name": "Zenson di Piave",
+  "countryCode": "IT",
+  "latitude": 45.6778,
+  "longitude": 12.4879
+},
+{
+  "name": "Gagaraha",
+  "countryCode": "NP",
+  "latitude": 26.7162,
+  "longitude": 86.1762
+},
+{
+  "name": "Mordovskaya Pishlya",
+  "countryCode": "RU",
+  "latitude": 54.1064,
+  "longitude": 44.7957
+},
+{
+  "name": "Ticuşu Vechi",
+  "countryCode": "RO",
+  "latitude": 45.9333,
+  "longitude": 25.1
+},
+{
+  "name": "Soyécourt",
+  "countryCode": "FR",
+  "latitude": 49.8633,
+  "longitude": 2.7936
+},
+{
+  "name": "Majan",
+  "countryCode": "ID",
+  "latitude": -8.73,
+  "longitude": 116.3119
+},
+{
+  "name": "Mangos",
+  "countryCode": "CR",
+  "latitude": 9.936,
+  "longitude": -84.4185
+},
+{
+  "name": "Fëdorovka",
+  "countryCode": "RU",
+  "latitude": 56.0247,
+  "longitude": 36.3646
+},
+{
+  "name": "Nordweststadt",
+  "countryCode": "DE",
+  "latitude": 48.8981,
+  "longitude": 8.677
+},
+{
+  "name": "Lugovoye",
+  "countryCode": "RU",
+  "latitude": 60.598,
+  "longitude": 28.2593
+},
+{
+  "name": "Kult’i",
+  "countryCode": "KR",
+  "latitude": 36.6995,
+  "longitude": 129.3851
+},
+{
+  "name": "Lug",
+  "countryCode": "HR",
+  "latitude": 44.9503,
+  "longitude": 15.3256
+},
+{
+  "name": "Konstantinovka",
+  "countryCode": "RU",
+  "latitude": 59.7833,
+  "longitude": 30.1333
+},
+{
+  "name": "Mittelhees",
+  "countryCode": "DE",
+  "latitude": 50.9464,
+  "longitude": 7.9531
+},
+{
+  "name": "Mayskiy",
+  "countryCode": "RU",
+  "latitude": 51.9731,
+  "longitude": 35.9406
+},
+{
+  "name": "Morroco",
+  "countryCode": "CO",
+  "latitude": 2.9724,
+  "longitude": -68.6737
+},
+{
+  "name": "Desa Tanjung Lama",
+  "countryCode": "ID",
+  "latitude": -3.1275,
+  "longitude": 103.2089
+},
+{
+  "name": "Cabalantian",
+  "countryCode": "PH",
+  "latitude": 7.5697,
+  "longitude": 125.1105
+},
+{
+  "name": "Salas Bajas",
+  "countryCode": "ES",
+  "latitude": 42.0956,
+  "longitude": 0.0927
+},
+{
+  "name": "Joturito",
+  "countryCode": "CU",
+  "latitude": 20.3667,
+  "longitude": -75.7167
+},
+{
+  "name": "Kaldir",
+  "countryCode": "HR",
+  "latitude": 45.3142,
+  "longitude": 13.8503
+},
+{
+  "name": "Hinterbrand",
+  "countryCode": "DE",
+  "latitude": 48.9817,
+  "longitude": 10.0391
+},
+{
+  "name": "Innokent’yevskaya",
+  "countryCode": "RU",
+  "latitude": 59.85,
+  "longitude": 117.75
+},
+{
+  "name": "Berzano di San Pietro",
+  "countryCode": "IT",
+  "latitude": 45.0948,
+  "longitude": 7.9528
+},
+{
+  "name": "Ostrovno",
+  "countryCode": "RU",
+  "latitude": 58.0167,
+  "longitude": 34.9667
+},
+{
+  "name": "La Ronce",
+  "countryCode": "FR",
+  "latitude": 45.6167,
+  "longitude": 4.5
+},
+{
+  "name": "Hoek",
+  "countryCode": "BE",
+  "latitude": 51.0006,
+  "longitude": 4.0382
+},
+{
+  "name": "Herrenlohe",
+  "countryCode": "DE",
+  "latitude": 50.2402,
+  "longitude": 11.9324
+},
+{
+  "name": "Guidan Alo",
+  "countryCode": "NE",
+  "latitude": 13.6753,
+  "longitude": 7.0998
+},
+{
+  "name": "Bela",
+  "countryCode": "NP",
+  "latitude": 26.9792,
+  "longitude": 85.6039
+},
+{
+  "name": "Yongsan-ni",
+  "countryCode": "KR",
+  "latitude": 36.05,
+  "longitude": 126.8333
+},
+{
+  "name": "La Retenida",
+  "countryCode": "CU",
+  "latitude": 22.3333,
+  "longitude": -79.6667
+},
+{
+  "name": "Ulinia",
+  "countryCode": "PL",
+  "latitude": 54.7574,
+  "longitude": 17.7036
+},
+{
+  "name": "Boult-sur-Suippe",
+  "countryCode": "FR",
+  "latitude": 49.3708,
+  "longitude": 4.1456
+},
+{
+  "name": "Sarratt",
+  "countryCode": "GB",
+  "latitude": 51.6813,
+  "longitude": -0.4763
+},
+{
+  "name": "Bărăteaz",
+  "countryCode": "RO",
+  "latitude": 45.9695,
+  "longitude": 21.0962
+},
+{
+  "name": "Piano Ospedale",
+  "countryCode": "IT",
+  "latitude": 37.7955,
+  "longitude": 14.2153
+},
+{
+  "name": "Zuzułka",
+  "countryCode": "PL",
+  "latitude": 52.4796,
+  "longitude": 21.9956
+},
+{
+  "name": "Ait Saadelli",
+  "countryCode": "MA",
+  "latitude": 32.6647,
+  "longitude": -5.3632
+},
+{
+  "name": "Kameno",
+  "countryCode": "ME",
+  "latitude": 42.4769,
+  "longitude": 18.5289
+},
+{
+  "name": "Depok",
+  "countryCode": "ID",
+  "latitude": -7.8036,
+  "longitude": 110.3094
+},
+{
+  "name": "Grischhei",
+  "countryCode": "CH",
+  "latitude": 47.2275,
+  "longitude": 8.426
+},
+{
+  "name": "Bantardawa",
+  "countryCode": "ID",
+  "latitude": -7.4381,
+  "longitude": 108.6123
+},
+{
+  "name": "Tazagzawt",
+  "countryCode": "MA",
+  "latitude": 30.9839,
+  "longitude": -8.3761
+},
+{
+  "name": "Arkhabang",
+  "countryCode": "NP",
+  "latitude": 28.2238,
+  "longitude": 83.123
+},
+{
+  "name": "Woodway",
+  "countryCode": "US",
+  "latitude": 47.7962,
+  "longitude": -122.3829
+},
+{
+  "name": "Eiding",
+  "countryCode": "AT",
+  "latitude": 48.0064,
+  "longitude": 13.6192
+},
+{
+  "name": "Bieńczyce",
+  "countryCode": "PL",
+  "latitude": 50.0881,
+  "longitude": 20.0279
+},
+{
+  "name": "Hattnau",
+  "countryCode": "DE",
+  "latitude": 47.5837,
+  "longitude": 9.6227
+},
+{
+  "name": "Forest Isle",
+  "countryCode": "US",
+  "latitude": 29.903,
+  "longitude": -89.9923
+},
+{
+  "name": "Jegliniszki",
+  "countryCode": "PL",
+  "latitude": 54.3052,
+  "longitude": 22.854
+},
+{
+  "name": "Villas Carolina",
+  "countryCode": "DO",
+  "latitude": 19.2144,
+  "longitude": -70.5177
+},
+{
+  "name": "Andriejaičiai",
+  "countryCode": "LT",
+  "latitude": 55.4174,
+  "longitude": 22.2351
+},
+{
+  "name": "Pagerageung Kidul",
+  "countryCode": "ID",
+  "latitude": -7.1156,
+  "longitude": 108.1669
+},
+{
+  "name": "Rutangira",
+  "countryCode": "RW",
+  "latitude": -1.5235,
+  "longitude": 29.8887
+},
+{
+  "name": "Centro Del Pueblo",
+  "countryCode": "DO",
+  "latitude": 17.8014,
+  "longitude": -71.4012
+},
+{
+  "name": "Kostry Stare",
+  "countryCode": "PL",
+  "latitude": 52.7588,
+  "longitude": 22.578
+},
+{
+  "name": "Luokė",
+  "countryCode": "LT",
+  "latitude": 55.8943,
+  "longitude": 22.5241
+},
+{
+  "name": "Cova do Moirão",
+  "countryCode": "PT",
+  "latitude": 32.7167,
+  "longitude": -17.1333
+},
+{
+  "name": "Bhaṇḍār",
+  "countryCode": "NP",
+  "latitude": 27.5765,
+  "longitude": 86.345
+},
+{
+  "name": "Yayama",
+  "countryCode": "JP",
+  "latitude": 33.5424,
+  "longitude": 130.6684
+},
+{
+  "name": "Saint Francis Homes Tenth",
+  "countryCode": "PH",
+  "latitude": 14.3261,
+  "longitude": 121.0902
+},
+{
+  "name": "İtitala",
+  "countryCode": "AZ",
+  "latitude": 41.5813,
+  "longitude": 46.3673
+},
+{
+  "name": "Terzo di Mezzo",
+  "countryCode": "IT",
+  "latitude": 40.6087,
+  "longitude": 15.2107
+},
+{
+  "name": "Mindszent",
+  "countryCode": "HU",
+  "latitude": 46.5236,
+  "longitude": 20.1904
+},
+{
+  "name": "Strachujov",
+  "countryCode": "CZ",
+  "latitude": 49.6135,
+  "longitude": 16.2224
+},
+{
+  "name": "Vichadero Flughafen (VCH)",
+  "countryCode": "UY",
+  "latitude": -31.767,
+  "longitude": -54.617
+},
+{
+  "name": "Township of Blue Cane",
+  "countryCode": "US",
+  "latitude": 36.1745,
+  "longitude": -90.2612
+},
+{
+  "name": "Puchacze",
+  "countryCode": "PL",
+  "latitude": 50.2137,
+  "longitude": 23.3101
+},
+{
+  "name": "Pozheche",
+  "countryCode": "BY",
+  "latitude": 52.2826,
+  "longitude": 25.8192
+},
+{
+  "name": "Oraş Podu Iloaiei",
+  "countryCode": "RO",
+  "latitude": 47.2081,
+  "longitude": 27.2655
+},
+{
+  "name": "Komissarovka",
+  "countryCode": "RU",
+  "latitude": 50.8617,
+  "longitude": 127.9897
+},
+{
+  "name": "City of Park Hills",
+  "countryCode": "US",
+  "latitude": 37.8211,
+  "longitude": -90.5051
+},
+{
+  "name": "Hemert",
+  "countryCode": "NL",
+  "latitude": 53.0983,
+  "longitude": 5.5236
+},
+{
+  "name": "Harwada",
+  "countryCode": "NP",
+  "latitude": 26.72,
+  "longitude": 86.0752
+},
+{
+  "name": "Recea",
+  "countryCode": "RO",
+  "latitude": 46.9008,
+  "longitude": 25.7287
+},
+{
+  "name": "San Jerónimo",
+  "countryCode": "MX",
+  "latitude": 18.9412,
+  "longitude": -99.2429
+},
+{
+  "name": "Lodë",
+  "countryCode": "AL",
+  "latitude": 41.05,
+  "longitude": 19.8167
+},
+{
+  "name": "Dāsht-e Panjshēr",
+  "countryCode": "AF",
+  "latitude": 36.7329,
+  "longitude": 67.1037
+},
+{
+  "name": "Sham’ya",
+  "countryCode": "RU",
+  "latitude": 61.3,
+  "longitude": 61.15
+},
+{
+  "name": "Hatelji",
+  "countryCode": "BA",
+  "latitude": 43.0905,
+  "longitude": 18.1993
+},
+{
+  "name": "Rudka Gołębska",
+  "countryCode": "PL",
+  "latitude": 51.4725,
+  "longitude": 22.4141
+},
+{
+  "name": "Tsehelne",
+  "countryCode": "UA",
+  "latitude": 50.2539,
+  "longitude": 36.9136
+},
+{
+  "name": "La Florida Abajo",
+  "countryCode": "PA",
+  "latitude": 8.8464,
+  "longitude": -79.9973
+},
+{
+  "name": "Aberdare",
+  "countryCode": "GB",
+  "latitude": 51.7144,
+  "longitude": -3.4492
+},
+{
+  "name": "Wetterstation Rustenburg",
+  "countryCode": "ZA",
+  "latitude": -25.65,
+  "longitude": 27.2333
+},
+{
+  "name": "Shirasaka",
+  "countryCode": "JP",
+  "latitude": 31.3287,
+  "longitude": 130.9297
+},
+{
+  "name": "Bergby",
+  "countryCode": "SE",
+  "latitude": 60.9293,
+  "longitude": 17.0419
+},
+{
+  "name": "Yangyeppa",
+  "countryCode": "NP",
+  "latitude": 27.1801,
+  "longitude": 87.8407
+},
+{
+  "name": "Longyuan Village",
+  "countryCode": "TW",
+  "latitude": 25.0231,
+  "longitude": 121.5413
+},
+{
+  "name": "Maumelle Balloonport",
+  "countryCode": "US",
+  "latitude": 34.8637,
+  "longitude": -92.404
+},
+{
+  "name": "Lopez Jaena",
+  "countryCode": "PH",
+  "latitude": 8.5246,
+  "longitude": 123.7197
+},
+{
+  "name": "Mikiškės",
+  "countryCode": "LT",
+  "latitude": 55.6575,
+  "longitude": 25.9243
+},
+{
+  "name": "Lukachëk",
+  "countryCode": "RU",
+  "latitude": 53.0543,
+  "longitude": 132.2849
+},
+{
+  "name": "Presles",
+  "countryCode": "FR",
+  "latitude": 45.0911,
+  "longitude": 5.3831
+},
+{
+  "name": "Cartier Militari",
+  "countryCode": "RO",
+  "latitude": 44.4383,
+  "longitude": 26.0394
+},
+{
+  "name": "Ostlutter",
+  "countryCode": "DE",
+  "latitude": 51.9846,
+  "longitude": 10.2937
+},
+{
+  "name": "Loyal",
+  "countryCode": "US",
+  "latitude": 44.7369,
+  "longitude": -90.496
+},
+{
+  "name": "Varda",
+  "countryCode": "BA",
+  "latitude": 43.2163,
+  "longitude": 17.8604
+},
+{
+  "name": "Cannaghanally",
+  "countryCode": "IE",
+  "latitude": 54.2353,
+  "longitude": -8.9131
+},
+{
+  "name": "Unterlosa",
+  "countryCode": "DE",
+  "latitude": 50.454,
+  "longitude": 12.1466
+},
+{
+  "name": "Uchtern",
+  "countryCode": "CH",
+  "latitude": 46.9157,
+  "longitude": 8.3969
+},
+{
+  "name": "Thala",
+  "countryCode": "NP",
+  "latitude": 29.4032,
+  "longitude": 80.8273
+},
+{
+  "name": "Netertovka",
+  "countryCode": "RU",
+  "latitude": 55.8061,
+  "longitude": 34.3429
+},
+{
+  "name": "Shiramizu",
+  "countryCode": "JP",
+  "latitude": 34.6739,
+  "longitude": 135.0031
+},
+{
+  "name": "Segal, Brownsville",
+  "countryCode": "US",
+  "latitude": 37.2056,
+  "longitude": -86.385
+},
+{
+  "name": "Angoon Seaplane Base (AGN)",
+  "countryCode": "US",
+  "latitude": 57.5055,
+  "longitude": -134.5963
+},
+{
+  "name": "Tsimafana",
+  "countryCode": "MG",
+  "latitude": -19.7701,
+  "longitude": 44.6098
+},
+{
+  "name": "Serfőződűlő",
+  "countryCode": "HU",
+  "latitude": 47.55,
+  "longitude": 20.0667
+},
+{
+  "name": "Desa Gondang",
+  "countryCode": "ID",
+  "latitude": -7.8275,
+  "longitude": 111.2697
+},
+{
+  "name": "Paharikharka",
+  "countryCode": "NP",
+  "latitude": 27.5906,
+  "longitude": 86.046
+},
+{
+  "name": "Dukhuwagaun",
+  "countryCode": "NP",
+  "latitude": 28.2187,
+  "longitude": 83.1588
+},
+{
+  "name": "Camerton",
+  "countryCode": "GB",
+  "latitude": 54.65,
+  "longitude": -3.4833
+},
+{
+  "name": "Whitman County",
+  "countryCode": "US",
+  "latitude": 46.9012,
+  "longitude": -117.523
+},
+{
+  "name": "Ấp Bảy",
+  "countryCode": "VN",
+  "latitude": 10.4553,
+  "longitude": 106.4697
+},
+{
+  "name": "Mažuikiai",
+  "countryCode": "LT",
+  "latitude": 56.0866,
+  "longitude": 24.9374
+},
+{
+  "name": "Hwagok-dong",
+  "countryCode": "KR",
+  "latitude": 37.5333,
+  "longitude": 126.8578
+},
+{
+  "name": "Andiolava",
+  "countryCode": "MG",
+  "latitude": -22.4922,
+  "longitude": 45.5904
+},
+{
+  "name": "Schemmen",
+  "countryCode": "DE",
+  "latitude": 51.0657,
+  "longitude": 7.5622
+},
+{
+  "name": "San Isidro",
+  "countryCode": "MX",
+  "latitude": 16.0175,
+  "longitude": -95.5687
+},
+{
+  "name": "Ngoma",
+  "countryCode": "BI",
+  "latitude": -2.7207,
+  "longitude": 30.1732
+},
+{
+  "name": "Vippel",
+  "countryCode": "DK",
+  "latitude": 54.9336,
+  "longitude": 9.2236
+},
+{
+  "name": "Ambaro Loharoe",
+  "countryCode": "MG",
+  "latitude": -25.0375,
+  "longitude": 45.7002
+},
+{
+  "name": "Trandeiras",
+  "countryCode": "PT",
+  "latitude": 41.5174,
+  "longitude": -7.7022
+},
+{
+  "name": "Näshulta",
+  "countryCode": "SE",
+  "latitude": 59.2333,
+  "longitude": 16.35
+},
+{
+  "name": "Alshi (Cab En 9 De Octubre)",
+  "countryCode": "EC",
+  "latitude": -2.2211,
+  "longitude": -78.2632
+},
+{
+  "name": "Thompson International Aviation Flughafen",
+  "countryCode": "US",
+  "latitude": 31.4311,
+  "longitude": -110.0935
+},
+{
+  "name": "Erkylä",
+  "countryCode": "FI",
+  "latitude": 60.7,
+  "longitude": 24.9167
+},
+{
+  "name": "Kamalpur",
+  "countryCode": "NP",
+  "latitude": 26.5881,
+  "longitude": 87.3406
+},
+{
+  "name": "Granada",
+  "countryCode": "GT",
+  "latitude": 14.5178,
+  "longitude": -91.5339
+},
+{
+  "name": "Stegen bei Dieterskirchen",
+  "countryCode": "DE",
+  "latitude": 49.4037,
+  "longitude": 12.417
+},
+{
+  "name": "Büschelbach",
+  "countryCode": "DE",
+  "latitude": 49.2912,
+  "longitude": 10.7194
+},
+{
+  "name": "Hatzfeld",
+  "countryCode": "DE",
+  "latitude": 51.2898,
+  "longitude": 7.1838
+},
+{
+  "name": "Costa di Bassano",
+  "countryCode": "IT",
+  "latitude": 45.8833,
+  "longitude": 9.6
+},
+{
+  "name": "Rasul Park",
+  "countryCode": "PK",
+  "latitude": 31.6283,
+  "longitude": 74.293
+},
+{
+  "name": "Derkachi",
+  "countryCode": "RU",
+  "latitude": 50.3935,
+  "longitude": 37.6014
+},
+{
+  "name": "La Majagua",
+  "countryCode": "DO",
+  "latitude": 18.621,
+  "longitude": -70.4097
+},
+{
+  "name": "Kollektiv",
+  "countryCode": "RU",
+  "latitude": 57.8693,
+  "longitude": 45.3539
+},
+{
+  "name": "Torcy-le-Petit",
+  "countryCode": "FR",
+  "latitude": 48.5313,
+  "longitude": 4.196
+},
+{
+  "name": "Paramun",
+  "countryCode": "BG",
+  "latitude": 42.7922,
+  "longitude": 22.7464
+},
+{
+  "name": "Tatrovice",
+  "countryCode": "CZ",
+  "latitude": 50.2768,
+  "longitude": 12.6972
+},
+{
+  "name": "Tōriyama",
+  "countryCode": "JP",
+  "latitude": 32.7587,
+  "longitude": 131.1911
+},
+{
+  "name": "Desa Bulu Lanjang",
+  "countryCode": "ID",
+  "latitude": -5.8261,
+  "longitude": 112.6286
+},
+{
+  "name": "Harpers Choice",
+  "countryCode": "US",
+  "latitude": 39.2193,
+  "longitude": -76.883
+},
+{
+  "name": "Nikonovichi",
+  "countryCode": "BY",
+  "latitude": 53.4472,
+  "longitude": 30.4361
+},
+{
+  "name": "Alónia",
+  "countryCode": "GR",
+  "latitude": 38.3728,
+  "longitude": 24.181
+},
+{
+  "name": "Bakalan",
+  "countryCode": "ID",
+  "latitude": -8.1703,
+  "longitude": 111.7917
+},
+{
+  "name": "Sierra",
+  "countryCode": "ES",
+  "latitude": 43.389,
+  "longitude": -4.2427
+},
+{
+  "name": "Folguerinas",
+  "countryCode": "ES",
+  "latitude": 43.4167,
+  "longitude": -6.1667
+},
+{
+  "name": "Pepelishte",
+  "countryCode": "BG",
+  "latitude": 41.5833,
+  "longitude": 25.3833
+},
+{
+  "name": "Gitabi",
+  "countryCode": "BI",
+  "latitude": -4.0625,
+  "longitude": 29.9456
+},
+{
+  "name": "Mattiazzi",
+  "countryCode": "IT",
+  "latitude": 45.6043,
+  "longitude": 11.3018
+},
+{
+  "name": "Astaf’yevo",
+  "countryCode": "RU",
+  "latitude": 55.1083,
+  "longitude": 37.9781
+},
+{
+  "name": "Batangala",
+  "countryCode": "LK",
+  "latitude": 6.9301,
+  "longitude": 80.2681
+},
+{
+  "name": "Sinchã Adulai",
+  "countryCode": "GW",
+  "latitude": 12.2,
+  "longitude": -14.65
+},
+{
+  "name": "Shustov",
+  "countryCode": "RU",
+  "latitude": 49.7167,
+  "longitude": 46.6
+},
+{
+  "name": "Kern Lake",
+  "countryCode": "US",
+  "latitude": 35.14,
+  "longitude": -119.0748
+},
+{
+  "name": "Groot Schoor",
+  "countryCode": "BE",
+  "latitude": 51.1113,
+  "longitude": 4.2463
+},
+{
+  "name": "Almirante",
+  "countryCode": "PA",
+  "latitude": 9.0681,
+  "longitude": -82.5595
+},
+{
+  "name": "Am Schüren",
+  "countryCode": "DE",
+  "latitude": 51.3212,
+  "longitude": 7.412
+},
+{
+  "name": "Ambatofotsy",
+  "countryCode": "MG",
+  "latitude": -19.1757,
+  "longitude": 46.5529
+},
+{
+  "name": "Hattvik",
+  "countryCode": "NO",
+  "latitude": 60.2062,
+  "longitude": 5.5343
+},
+{
+  "name": "Nikol’skaya",
+  "countryCode": "RU",
+  "latitude": 52.2445,
+  "longitude": 40.9339
+},
+{
+  "name": "Chałupki",
+  "countryCode": "PL",
+  "latitude": 50.2319,
+  "longitude": 22.5638
+},
+{
+  "name": "Santiz",
+  "countryCode": "ES",
+  "latitude": 41.2058,
+  "longitude": -5.8965
+},
+{
+  "name": "Township of Redding",
+  "countryCode": "US",
+  "latitude": 39.0124,
+  "longitude": -85.8489
+},
+{
+  "name": "Cuiping",
+  "countryCode": "CN",
+  "latitude": 27.1281,
+  "longitude": 103.3498
+},
+{
+  "name": "Kaphal Takura",
+  "countryCode": "NP",
+  "latitude": 28.6431,
+  "longitude": 81.7062
+},
+{
+  "name": "Long Sutton",
+  "countryCode": "GB",
+  "latitude": 52.7764,
+  "longitude": 0.1071
+},
+{
+  "name": "Kiełpin",
+  "countryCode": "PL",
+  "latitude": 52.6245,
+  "longitude": 15.2275
+},
+{
+  "name": "Sankt Veit im Pongau",
+  "countryCode": "AT",
+  "latitude": 47.3139,
+  "longitude": 13.1345
+},
+{
+  "name": "Potawatomi",
+  "countryCode": "US",
+  "latitude": 40.5038,
+  "longitude": -111.8613
+},
+{
+  "name": "Zhuravl’",
+  "countryCode": "RU",
+  "latitude": 52.1898,
+  "longitude": 34.14
+},
+{
+  "name": "Miecznikowo Cygany",
+  "countryCode": "PL",
+  "latitude": 53.2652,
+  "longitude": 20.5021
+},
+{
+  "name": "Haddenbach",
+  "countryCode": "DE",
+  "latitude": 51.1964,
+  "longitude": 7.1914
+},
+{
+  "name": "Scotland",
+  "countryCode": "US",
+  "latitude": 43.1497,
+  "longitude": -97.7176
+},
+{
+  "name": "Gostomko",
+  "countryCode": "PL",
+  "latitude": 54.1618,
+  "longitude": 17.8246
+},
+{
+  "name": "Tokiwachō",
+  "countryCode": "JP",
+  "latitude": 33.9,
+  "longitude": 130.8167
+},
+{
+  "name": "Sistema",
+  "countryCode": "RU",
+  "latitude": 53.1107,
+  "longitude": 60.2202
+},
+{
+  "name": "La Morra",
+  "countryCode": "IT",
+  "latitude": 44.6379,
+  "longitude": 7.9308
+},
+{
+  "name": "Tabago",
+  "countryCode": "PG",
+  "latitude": -6.6804,
+  "longitude": 155.7182
+},
+{
+  "name": "Süpplingenburg",
+  "countryCode": "DE",
+  "latitude": 52.2507,
+  "longitude": 10.9101
+},
+{
+  "name": "Novoye Patrikeyevo",
+  "countryCode": "RU",
+  "latitude": 55.4675,
+  "longitude": 48.5198
+},
+{
+  "name": "Clare",
+  "countryCode": "ZA",
+  "latitude": -24.6319,
+  "longitude": 31.3017
+},
+{
+  "name": "Gyalshing",
+  "countryCode": "IN",
+  "latitude": 27.306,
+  "longitude": 88.19
+},
+{
+  "name": "Campogalliano",
+  "countryCode": "IT",
+  "latitude": 44.6887,
+  "longitude": 10.8471
+},
+{
+  "name": "Bessè Basso",
+  "countryCode": "IT",
+  "latitude": 44.9296,
+  "longitude": 6.8778
+},
+{
+  "name": "Longqiu",
+  "countryCode": "CN",
+  "latitude": 32.8292,
+  "longitude": 119.5127
+},
+{
+  "name": "Mala Vulyha",
+  "countryCode": "UA",
+  "latitude": 48.8647,
+  "longitude": 28.6277
+},
+{
+  "name": "Banne Bada",
+  "countryCode": "NP",
+  "latitude": 29.347,
+  "longitude": 82.0029
+},
+{
+  "name": "Les Minimes",
+  "countryCode": "FR",
+  "latitude": 46.1429,
+  "longitude": -1.1604
+},
+{
+  "name": "Razines",
+  "countryCode": "FR",
+  "latitude": 46.9756,
+  "longitude": 0.3778
+},
+{
+  "name": "Bäckby",
+  "countryCode": "FI",
+  "latitude": 60.5841,
+  "longitude": 26.21
+},
+{
+  "name": "Khokhryaki",
+  "countryCode": "RU",
+  "latitude": 56.9156,
+  "longitude": 53.3221
+},
+{
+  "name": "Le Mas Dessous",
+  "countryCode": "FR",
+  "latitude": 45.6155,
+  "longitude": 6.0778
+},
+{
+  "name": "Sulusaray Bucağı",
+  "countryCode": "TR",
+  "latitude": 39.9915,
+  "longitude": 36.0719
+},
+{
+  "name": "Wetterstation Amberd",
+  "countryCode": "AM",
+  "latitude": 40.3833,
+  "longitude": 44.25
+},
+{
+  "name": "Punta Rossa",
+  "countryCode": "IT",
+  "latitude": 41.2279,
+  "longitude": 13.0523
+},
+{
+  "name": "Bedias",
+  "countryCode": "US",
+  "latitude": 30.776,
+  "longitude": -95.9505
+},
+{
+  "name": "Kollerbach",
+  "countryCode": "DE",
+  "latitude": 49.2297,
+  "longitude": 12.8885
+},
+{
+  "name": "Kružlová",
+  "countryCode": "SK",
+  "latitude": 49.3644,
+  "longitude": 21.5792
+},
+{
+  "name": "Nefteprovod",
+  "countryCode": "RU",
+  "latitude": 55.3514,
+  "longitude": 76.8528
+},
+{
+  "name": "Minare",
+  "countryCode": "TR",
+  "latitude": 36.9308,
+  "longitude": 39.0044
+},
+{
+  "name": "Moorogarable",
+  "countryCode": "SO",
+  "latitude": 4.1333,
+  "longitude": 47.6333
+},
+{
+  "name": "San Nazario",
+  "countryCode": "IT",
+  "latitude": 45.8398,
+  "longitude": 11.6889
+},
+{
+  "name": "Valsugana",
+  "countryCode": "IT",
+  "latitude": 45.7474,
+  "longitude": 12.3686
+},
+{
+  "name": "Desa Dumara",
+  "countryCode": "ID",
+  "latitude": 0.5906,
+  "longitude": 124.0514
+},
+{
+  "name": "Donja Lukića Mala",
+  "countryCode": "RS",
+  "latitude": 44.3922,
+  "longitude": 19.5925
+},
+{
+  "name": "Molenstraat",
+  "countryCode": "BE",
+  "latitude": 51.2333,
+  "longitude": 3.6167
+},
+{
+  "name": "Chlebów",
+  "countryCode": "PL",
+  "latitude": 52.1313,
+  "longitude": 14.8624
+},
+{
+  "name": "Jinning Township",
+  "countryCode": "TW",
+  "latitude": 24.4571,
+  "longitude": 118.328
+},
+{
+  "name": "Kavumu",
+  "countryCode": "BI",
+  "latitude": -3.6568,
+  "longitude": 29.6125
+},
+{
+  "name": "Puybelliard",
+  "countryCode": "FR",
+  "latitude": 46.7064,
+  "longitude": -1.0306
+},
+{
+  "name": "Tatewari",
+  "countryCode": "JP",
+  "latitude": 32.9178,
+  "longitude": 130.7522
+},
+{
+  "name": "Châtillon-lès-Sons",
+  "countryCode": "FR",
+  "latitude": 49.7589,
+  "longitude": 3.6842
+},
+{
+  "name": "Le Chaylaret",
+  "countryCode": "FR",
+  "latitude": 44.8203,
+  "longitude": 3.1507
+},
+{
+  "name": "Pauillac",
+  "countryCode": "FR",
+  "latitude": 45.2002,
+  "longitude": -0.7488
+},
+{
+  "name": "Township of South Salem",
+  "countryCode": "US",
+  "latitude": 37.8938,
+  "longitude": -96.4349
+},
+{
+  "name": "Basantapur Ailani",
+  "countryCode": "NP",
+  "latitude": 28.106,
+  "longitude": 81.5313
+},
+{
+  "name": "Schachtrup",
+  "countryCode": "DE",
+  "latitude": 51.7052,
+  "longitude": 8.1481
+},
+{
+  "name": "Forest Hills Gardens",
+  "countryCode": "US",
+  "latitude": 40.7147,
+  "longitude": -73.8403
+},
+{
+  "name": "Tandīr-e Bolandgāh",
+  "countryCode": "IR",
+  "latitude": 37.257,
+  "longitude": 48.9103
+},
+{
+  "name": "Sigglesthorne",
+  "countryCode": "GB",
+  "latitude": 53.8983,
+  "longitude": -0.2438
+},
+{
+  "name": "Pipalchhap",
+  "countryCode": "NP",
+  "latitude": 27.8786,
+  "longitude": 84.9015
+},
+{
+  "name": "Brûlon",
+  "countryCode": "FR",
+  "latitude": 47.9678,
+  "longitude": -0.2347
+},
+{
+  "name": "Dolinskiy",
+  "countryCode": "RU",
+  "latitude": 48.3592,
+  "longitude": 42.5633
+},
+{
+  "name": "Rugince",
+  "countryCode": "MK",
+  "latitude": 42.1401,
+  "longitude": 21.9773
+},
+{
+  "name": "Al Muqarqar",
+  "countryCode": "YE",
+  "latitude": 16.7167,
+  "longitude": 51.4333
+},
+{
+  "name": "Środa Wielkopolska",
+  "countryCode": "PL",
+  "latitude": 52.2299,
+  "longitude": 17.2803
+},
+{
+  "name": "Desa Maras Bantan",
+  "countryCode": "ID",
+  "latitude": -4.3128,
+  "longitude": 102.8419
+},
+{
+  "name": " St. Sebastian",
+  "countryCode": "AT",
+  "latitude": 46.7437,
+  "longitude": 14.4548
+},
+{
+  "name": "Yeak Laom",
+  "countryCode": "KH",
+  "latitude": 13.7458,
+  "longitude": 107.0149
+},
+{
+  "name": "Kelurahan Pasar Porsea",
+  "countryCode": "ID",
+  "latitude": 2.4447,
+  "longitude": 99.1583
+},
+{
+  "name": "Xã Sơn Phú",
+  "countryCode": "VN",
+  "latitude": 22.387,
+  "longitude": 105.4765
+},
+{
+  "name": "Babatona",
+  "countryCode": "ID",
+  "latitude": 0.4887,
+  "longitude": 120.0121
+},
+{
+  "name": "Lünne",
+  "countryCode": "DE",
+  "latitude": 52.4333,
+  "longitude": 7.4333
+},
+{
+  "name": "Crosby",
+  "countryCode": "GB",
+  "latitude": 54.9167,
+  "longitude": -2.85
+},
+{
+  "name": "Kocaali",
+  "countryCode": "TR",
+  "latitude": 37.0552,
+  "longitude": 38.1804
+},
+{
+  "name": "Rujište",
+  "countryCode": "RS",
+  "latitude": 43.6569,
+  "longitude": 21.5839
+},
+{
+  "name": "Brykino",
+  "countryCode": "RU",
+  "latitude": 55.9428,
+  "longitude": 41.213
+},
+{
+  "name": "Singra",
+  "countryCode": "BD",
+  "latitude": 25.2862,
+  "longitude": 89.2356
+},
+{
+  "name": "Fornace",
+  "countryCode": "IT",
+  "latitude": 45.6822,
+  "longitude": 9.9484
+},
+{
+  "name": "Goluzino",
+  "countryCode": "RU",
+  "latitude": 57.5941,
+  "longitude": 31.3254
+},
+{
+  "name": "Lomas de Chapultepec",
+  "countryCode": "MX",
+  "latitude": 19.4199,
+  "longitude": -99.2195
+},
+{
+  "name": "Novaya Derevnya",
+  "countryCode": "RU",
+  "latitude": 55.1101,
+  "longitude": 42.7158
+},
+{
+  "name": "Maloye Gorodishche",
+  "countryCode": "RU",
+  "latitude": 57.05,
+  "longitude": 32.8167
+},
+{
+  "name": "Desa Rena Panjang",
+  "countryCode": "ID",
+  "latitude": -3.9942,
+  "longitude": 102.4906
+},
+{
+  "name": "Hutton Mulgrave",
+  "countryCode": "GB",
+  "latitude": 54.477,
+  "longitude": -0.7343
+},
+{
+  "name": "Ligettanyák",
+  "countryCode": "HU",
+  "latitude": 47.3833,
+  "longitude": 21.9
+},
+{
+  "name": "Hennberg",
+  "countryCode": "CZ",
+  "latitude": 48.7333,
+  "longitude": 14.6
+},
+{
+  "name": "Desa Gilang",
+  "countryCode": "ID",
+  "latitude": -8.1114,
+  "longitude": 112.0283
+},
+{
+  "name": "Le Péage",
+  "countryCode": "FR",
+  "latitude": 48.5834,
+  "longitude": 1.4303
+},
+{
+  "name": "Hørret",
+  "countryCode": "DK",
+  "latitude": 56.0834,
+  "longitude": 10.1802
+},
+{
+  "name": "Sierpc",
+  "countryCode": "PL",
+  "latitude": 52.8323,
+  "longitude": 19.6477
+},
+{
+  "name": "Troitsko-Khartsyzk",
+  "countryCode": "UA",
+  "latitude": 47.9678,
+  "longitude": 38.2697
+},
+{
+  "name": "Desa Pangongsean",
+  "countryCode": "ID",
+  "latitude": -7.1642,
+  "longitude": 113.2236
+},
+{
+  "name": "Baiana",
+  "countryCode": "IT",
+  "latitude": 45.7833,
+  "longitude": 13.2667
+},
+{
+  "name": "Finkenburg",
+  "countryCode": "DE",
+  "latitude": 50.6073,
+  "longitude": 12.418
+},
+{
+  "name": "Pajuniemi",
+  "countryCode": "FI",
+  "latitude": 64.9855,
+  "longitude": 25.2632
+},
+{
+  "name": "Altopiano della Vigolana",
+  "countryCode": "IT",
+  "latitude": 45.9881,
+  "longitude": 11.2013
+},
+{
+  "name": "Uņģeni",
+  "countryCode": "LV",
+  "latitude": 57.6584,
+  "longitude": 24.3743
+},
+{
+  "name": "Wetterstation Surabaya/perak Ii",
+  "countryCode": "ID",
+  "latitude": -7.2167,
+  "longitude": 112.717
+},
+{
+  "name": "Padilla",
+  "countryCode": "BO",
+  "latitude": -19.7223,
+  "longitude": -64.3535
+},
+{
+  "name": "La Palma",
+  "countryCode": "DO",
+  "latitude": 19.2665,
+  "longitude": -71.5755
+},
+{
+  "name": "Chitrapurwa",
+  "countryCode": "NP",
+  "latitude": 27.6296,
+  "longitude": 83.1742
+},
+{
+  "name": "Drlupa",
+  "countryCode": "RS",
+  "latitude": 43.8033,
+  "longitude": 20.8306
+},
+{
+  "name": "Viehhaus",
+  "countryCode": "DE",
+  "latitude": 48.3586,
+  "longitude": 8.6068
+},
+{
+  "name": "São Simão",
+  "countryCode": "PT",
+  "latitude": 40.769,
+  "longitude": -8.6518
+},
+{
+  "name": "Sasso",
+  "countryCode": "IT",
+  "latitude": 46.4833,
+  "longitude": 10.8667
+},
+{
+  "name": "Tumdanda",
+  "countryCode": "NP",
+  "latitude": 28.2113,
+  "longitude": 83.2785
+},
+{
+  "name": "Siqbā",
+  "countryCode": "SY",
+  "latitude": 33.5189,
+  "longitude": 36.3831
+},
+{
+  "name": "Ban Latsèn",
+  "countryCode": "LA",
+  "latitude": 19.3367,
+  "longitude": 103.1423
+},
+{
+  "name": "Kelurahan Hutaraja",
+  "countryCode": "ID",
+  "latitude": 1.4525,
+  "longitude": 98.9958
+},
+{
+  "name": "Siems",
+  "countryCode": "DE",
+  "latitude": 52.4995,
+  "longitude": 11.2073
+},
+{
+  "name": "Schalenbach",
+  "countryCode": "DE",
+  "latitude": 50.9272,
+  "longitude": 7.6784
+},
+{
+  "name": "Lappi",
+  "countryCode": "FI",
+  "latitude": 64.0833,
+  "longitude": 26.2167
+},
+{
+  "name": "Vereda Millo",
+  "countryCode": "CO",
+  "latitude": 2.4999,
+  "longitude": -76.3954
+},
+{
+  "name": "Herat District",
+  "countryCode": "AF",
+  "latitude": 34.3419,
+  "longitude": 62.2031
+},
+{
+  "name": "Czerwona Woda",
+  "countryCode": "PL",
+  "latitude": 51.2534,
+  "longitude": 15.2192
+},
+{
+  "name": "Dūrupe",
+  "countryCode": "LV",
+  "latitude": 57.0809,
+  "longitude": 27.127
+},
+{
+  "name": "Jaars",
+  "countryCode": "US",
+  "latitude": 34.8638,
+  "longitude": -80.7459
+},
+{
+  "name": "Agao-ao",
+  "countryCode": "PH",
+  "latitude": 13.8403,
+  "longitude": 122.8608
+},
+{
+  "name": "Fazenda da Bica",
+  "countryCode": "BR",
+  "latitude": -22.8916,
+  "longitude": -43.3328
+},
+{
+  "name": "Molodivka",
+  "countryCode": "UA",
+  "latitude": 51.0108,
+  "longitude": 24.6245
+},
+{
+  "name": "Lesnoy",
+  "countryCode": "RU",
+  "latitude": 56.0667,
+  "longitude": 37.9167
+},
+{
+  "name": "Arborfield and Newland",
+  "countryCode": "GB",
+  "latitude": 51.4007,
+  "longitude": -0.9092
+},
+{
+  "name": "Kleinkrossen",
+  "countryCode": "DE",
+  "latitude": 50.7384,
+  "longitude": 11.4683
+},
+{
+  "name": "Sint Maartensbrug",
+  "countryCode": "NL",
+  "latitude": 52.7808,
+  "longitude": 4.7278
+},
+{
+  "name": "Township of Rock Lake",
+  "countryCode": "US",
+  "latitude": 44.24,
+  "longitude": -95.8981
+},
+{
+  "name": "Prati Magri",
+  "countryCode": "IT",
+  "latitude": 45.5108,
+  "longitude": 10.3721
+},
+{
+  "name": "Lumphajung",
+  "countryCode": "NP",
+  "latitude": 26.8712,
+  "longitude": 87.3919
+},
+{
+  "name": "Noyal-sur-Vilaine",
+  "countryCode": "FR",
+  "latitude": 48.1117,
+  "longitude": -1.5244
+},
+{
+  "name": "Ed Dikht",
+  "countryCode": "MA",
+  "latitude": 31.0246,
+  "longitude": -9.3364
+},
+{
+  "name": "Horton-by-Malpas",
+  "countryCode": "GB",
+  "latitude": 53.0367,
+  "longitude": -2.8121
+},
+{
+  "name": "Origny-le-Roux",
+  "countryCode": "FR",
+  "latitude": 48.3447,
+  "longitude": 0.4203
+},
+{
+  "name": "Laarwald",
+  "countryCode": "DE",
+  "latitude": 52.6167,
+  "longitude": 6.75
+},
+{
+  "name": "Santa María Totolapilla",
+  "countryCode": "MX",
+  "latitude": 16.6,
+  "longitude": -95.625
+},
+{
+  "name": "Kothle",
+  "countryCode": "NP",
+  "latitude": 29.7673,
+  "longitude": 80.7517
+},
+{
+  "name": "Osornillo",
+  "countryCode": "ES",
+  "latitude": 42.3698,
+  "longitude": -4.291
+},
+{
+  "name": "Fig Orchard",
+  "countryCode": "US",
+  "latitude": 35.3086,
+  "longitude": -118.5826
+},
+{
+  "name": "Qunshan",
+  "countryCode": "CN",
+  "latitude": 49.2166,
+  "longitude": 127.5748
+},
+{
+  "name": "Panje",
+  "countryCode": "NP",
+  "latitude": 28.1619,
+  "longitude": 84.6741
+},
+{
+  "name": "Kartashëvo",
+  "countryCode": "RU",
+  "latitude": 54.2,
+  "longitude": 92.75
+},
+{
+  "name": "Pisartsi",
+  "countryCode": "BG",
+  "latitude": 41.4892,
+  "longitude": 25.3713
+},
+{
+  "name": "Ljeljenča",
+  "countryCode": "BA",
+  "latitude": 44.7388,
+  "longitude": 19.0928
+},
+{
+  "name": "Jandrići",
+  "countryCode": "BA",
+  "latitude": 44.0922,
+  "longitude": 16.5689
+},
+{
+  "name": "Matalaque",
+  "countryCode": "PE",
+  "latitude": -16.5287,
+  "longitude": -70.8366
+},
+{
+  "name": "Barsuch’l",
+  "countryCode": "RU",
+  "latitude": 54.9897,
+  "longitude": 39.6689
+},
+{
+  "name": "Chabaliou",
+  "countryCode": "FR",
+  "latitude": 44.6998,
+  "longitude": 3.8643
+},
+{
+  "name": "Nanggulan",
+  "countryCode": "ID",
+  "latitude": -7.3322,
+  "longitude": 110.5114
+},
+{
+  "name": "La Union",
+  "countryCode": "EC",
+  "latitude": -1.7205,
+  "longitude": -79.3804
+},
+{
+  "name": "Gebeciler",
+  "countryCode": "TR",
+  "latitude": 39.0667,
+  "longitude": 29.0333
+},
+{
+  "name": "Tadapani",
+  "countryCode": "NP",
+  "latitude": 28.3893,
+  "longitude": 83.7758
+},
+{
+  "name": "Plantation Island",
+  "countryCode": "US",
+  "latitude": 25.844,
+  "longitude": -81.3659
+},
+{
+  "name": "Koldanda",
+  "countryCode": "NP",
+  "latitude": 27.5529,
+  "longitude": 85.3511
+},
+{
+  "name": "Glinki",
+  "countryCode": "RU",
+  "latitude": 57.3542,
+  "longitude": 57.5298
+},
+{
+  "name": "Talhof",
+  "countryCode": "DE",
+  "latitude": 48.6474,
+  "longitude": 9.5385
+},
+{
+  "name": "Rio Tavares",
+  "countryCode": "BR",
+  "latitude": -27.6453,
+  "longitude": -48.4749
+},
+{
+  "name": "Lziyt",
+  "countryCode": "MA",
+  "latitude": 29.8931,
+  "longitude": -9.213
+},
+{
+  "name": "Kecamatan Cibogo",
+  "countryCode": "ID",
+  "latitude": -6.5561,
+  "longitude": 107.8381
+},
+{
+  "name": "Sikre",
+  "countryCode": "NP",
+  "latitude": 27.888,
+  "longitude": 85.2867
+},
+{
+  "name": "Heimtali",
+  "countryCode": "EE",
+  "latitude": 58.3211,
+  "longitude": 25.5064
+},
+{
+  "name": "Årup",
+  "countryCode": "DK",
+  "latitude": 55.3732,
+  "longitude": 10.0413
+},
+{
+  "name": "Lielkokini",
+  "countryCode": "LV",
+  "latitude": 55.9825,
+  "longitude": 26.6994
+},
+{
+  "name": "Udasi",
+  "countryCode": "NP",
+  "latitude": 28.7441,
+  "longitude": 80.7336
+},
+{
+  "name": "Ḩayy Mār Ilyās",
+  "countryCode": "SY",
+  "latitude": 34.8985,
+  "longitude": 35.8901
+},
+{
+  "name": "Bol’shiye Yurintsy",
+  "countryCode": "RU",
+  "latitude": 58.837,
+  "longitude": 48.8988
+},
+{
+  "name": "Fontaine-la-Gaillarde",
+  "countryCode": "FR",
+  "latitude": 48.2199,
+  "longitude": 3.3789
+},
+{
+  "name": "Bohe-Suyak",
+  "countryCode": "PH",
+  "latitude": 6.4573,
+  "longitude": 122.1136
+},
+{
+  "name": "Kadurupe",
+  "countryCode": "LK",
+  "latitude": 6.0684,
+  "longitude": 80.1725
+},
+{
+  "name": "Cielavas",
+  "countryCode": "LV",
+  "latitude": 56.8933,
+  "longitude": 23.8033
+},
+{
+  "name": "Ranzin",
+  "countryCode": "DE",
+  "latitude": 53.9489,
+  "longitude": 13.5283
+},
+{
+  "name": "Putian",
+  "countryCode": "PH",
+  "latitude": 11.2152,
+  "longitude": 123.7176
+},
+{
+  "name": "Ladzhene",
+  "countryCode": "BG",
+  "latitude": 42.0266,
+  "longitude": 23.9834
+},
+{
+  "name": "Hauteville FR",
+  "countryCode": "CH",
+  "latitude": 46.6701,
+  "longitude": 7.1104
+},
+{
+  "name": "Chézy",
+  "countryCode": "FR",
+  "latitude": 46.6111,
+  "longitude": 3.4678
+},
+{
+  "name": "Kusatsu",
+  "countryCode": "JP",
+  "latitude": 35.0167,
+  "longitude": 135.9667
+},
+{
+  "name": "Ančići",
+  "countryCode": "BA",
+  "latitude": 44.9539,
+  "longitude": 17.8361
+},
+{
+  "name": "London",
+  "countryCode": "GQ",
+  "latitude": 2.2682,
+  "longitude": 9.7893
+},
+{
+  "name": "Lapshovo",
+  "countryCode": "RU",
+  "latitude": 52.8447,
+  "longitude": 45.9861
+},
+{
+  "name": "Shchedrohir",
+  "countryCode": "UA",
+  "latitude": 51.8,
+  "longitude": 24.7821
+},
+{
+  "name": "Brzoza",
+  "countryCode": "PL",
+  "latitude": 50.9082,
+  "longitude": 17.0022
+},
+{
+  "name": "Cedarbrook",
+  "countryCode": "US",
+  "latitude": 36.5564,
+  "longitude": -87.3378
+},
+{
+  "name": "Boa Vista (Roraima)",
+  "countryCode": "BR",
+  "latitude": 2.8197,
+  "longitude": -60.6733
+},
+{
+  "name": "Salleri",
+  "countryCode": "NP",
+  "latitude": 28.2607,
+  "longitude": 82.1684
+},
+{
+  "name": "Ubon Ratchathani",
+  "countryCode": "TH",
+  "latitude": 15.2384,
+  "longitude": 104.8487
+},
+{
+  "name": "Oshien",
+  "countryCode": "GH",
+  "latitude": 5.5007,
+  "longitude": -0.3527
+},
+{
+  "name": "Nizhniy Petryak",
+  "countryCode": "RU",
+  "latitude": 57.4833,
+  "longitude": 77.35
+},
+{
+  "name": "Cantrall Mill",
+  "countryCode": "US",
+  "latitude": 41.3191,
+  "longitude": -120.3275
+},
+{
+  "name": "Hacienda San Juan Chico",
+  "countryCode": "EC",
+  "latitude": -1.6667,
+  "longitude": -78.75
+},
+{
+  "name": "Zinovkino",
+  "countryCode": "RU",
+  "latitude": 55.3286,
+  "longitude": 37.745
+},
+{
+  "name": "Podgrad",
+  "countryCode": "SI",
+  "latitude": 46.0722,
+  "longitude": 14.6497
+},
+{
+  "name": "Garbno",
+  "countryCode": "PL",
+  "latitude": 54.2921,
+  "longitude": 21.1873
+},
+{
+  "name": "Lassan",
+  "countryCode": "PK",
+  "latitude": 34.6241,
+  "longitude": 73.4492
+},
+{
+  "name": "Township of Kimmel",
+  "countryCode": "US",
+  "latitude": 40.2503,
+  "longitude": -78.5036
+},
+{
+  "name": "Krasnoturanskiy Rayon",
+  "countryCode": "RU",
+  "latitude": 54.4167,
+  "longitude": 91.6667
+},
+{
+  "name": "Zhuravlevka",
+  "countryCode": "RU",
+  "latitude": 45.4741,
+  "longitude": 38.6389
+},
+{
+  "name": "Paipa",
+  "countryCode": "CO",
+  "latitude": 5.8298,
+  "longitude": -73.2309
+},
+{
+  "name": "Flughafen Teruel (TEV)",
+  "countryCode": "ES",
+  "latitude": 40.4135,
+  "longitude": -1.2179
+},
+{
+  "name": "Belevshchina",
+  "countryCode": "BY",
+  "latitude": 53.5667,
+  "longitude": 27.0833
+},
+{
+  "name": "Highstreet",
+  "countryCode": "IE",
+  "latitude": 53.2511,
+  "longitude": -7.9417
+},
+{
+  "name": "Vardići",
+  "countryCode": "BA",
+  "latitude": 43.6542,
+  "longitude": 17.3047
+},
+{
+  "name": "Sirnach",
+  "countryCode": "CH",
+  "latitude": 47.4545,
+  "longitude": 9.0021
+},
+{
+  "name": "Brejo dos Santos",
+  "countryCode": "BR",
+  "latitude": -6.3955,
+  "longitude": -37.8607
+},
+{
+  "name": "Dakeng",
+  "countryCode": "TW",
+  "latitude": 23.9064,
+  "longitude": 121.6033
+},
+{
+  "name": "Ajiraku",
+  "countryCode": "UG",
+  "latitude": 3.0615,
+  "longitude": 31.0645
+},
+{
+  "name": "Selvotta",
+  "countryCode": "IT",
+  "latitude": 41.4195,
+  "longitude": 14.0875
+},
+{
+  "name": "Desa Sukajaya",
+  "countryCode": "ID",
+  "latitude": -6.905,
+  "longitude": 107.8994
+},
+{
+  "name": "Xiaowangzhuang",
+  "countryCode": "CN",
+  "latitude": 38.3363,
+  "longitude": 116.8401
+},
+{
+  "name": "Tomamae Gun",
+  "countryCode": "JP",
+  "latitude": 44.3233,
+  "longitude": 141.8542
+},
+{
+  "name": "Baltray",
+  "countryCode": "IE",
+  "latitude": 53.7406,
+  "longitude": -6.2675
+},
+{
+  "name": "Pokrovskiy",
+  "countryCode": "RU",
+  "latitude": 44.4053,
+  "longitude": 41.5331
+},
+{
+  "name": "Stapleton",
+  "countryCode": "GB",
+  "latitude": 55.0407,
+  "longitude": -2.7803
+},
+{
+  "name": "Perollaj",
+  "countryCode": "AL",
+  "latitude": 42.2444,
+  "longitude": 20.3425
+},
+{
+  "name": "Krężce",
+  "countryCode": "PL",
+  "latitude": 51.9318,
+  "longitude": 20.0813
+},
+{
+  "name": "Barão de Cocais",
+  "countryCode": "BR",
+  "latitude": -19.9458,
+  "longitude": -43.4872
+},
+{
+  "name": "Lagjja e Re",
+  "countryCode": "AL",
+  "latitude": 40.0092,
+  "longitude": 19.9547
+},
+{
+  "name": "Township of Huron",
+  "countryCode": "US",
+  "latitude": 41.3907,
+  "longitude": -82.5907
+},
+{
+  "name": "Gairigaun",
+  "countryCode": "NP",
+  "latitude": 27.7632,
+  "longitude": 85.61
+},
+{
+  "name": "San Antonio",
+  "countryCode": "PY",
+  "latitude": -25.4213,
+  "longitude": -57.5473
+},
+{
+  "name": "Lintao",
+  "countryCode": "CN",
+  "latitude": 35.3068,
+  "longitude": 103.8358
+},
+{
+  "name": "Madetswil",
+  "countryCode": "CH",
+  "latitude": 47.4107,
+  "longitude": 8.792
+},
+{
+  "name": "Uelsen",
+  "countryCode": "DE",
+  "latitude": 52.5,
+  "longitude": 6.8833
+},
+{
+  "name": "Lennewitz",
+  "countryCode": "DE",
+  "latitude": 52.901,
+  "longitude": 11.9665
+},
+{
+  "name": "Desa Jerora Satu",
+  "countryCode": "ID",
+  "latitude": 0.0847,
+  "longitude": 111.5628
+},
+{
+  "name": "Linac",
+  "countryCode": "FR",
+  "latitude": 44.6654,
+  "longitude": 2.114
+},
+{
+  "name": "Gamboula",
+  "countryCode": "CF",
+  "latitude": 4.1178,
+  "longitude": 15.1393
+},
+{
+  "name": "Pron’",
+  "countryCode": "RU",
+  "latitude": 54.0331,
+  "longitude": 38.5313
+},
+{
+  "name": "Dąbkowice Dolne",
+  "countryCode": "PL",
+  "latitude": 52.0797,
+  "longitude": 19.8574
+},
+{
+  "name": "Molūk",
+  "countryCode": "IR",
+  "latitude": 38.9183,
+  "longitude": 47.1384
+},
+{
+  "name": "Brodek",
+  "countryCode": "CZ",
+  "latitude": 50.4216,
+  "longitude": 15.6853
+},
+{
+  "name": "Krutoye",
+  "countryCode": "RU",
+  "latitude": 55.454,
+  "longitude": 31.3231
+},
+{
+  "name": "Vohitrapanefy",
+  "countryCode": "MG",
+  "latitude": -23.5959,
+  "longitude": 47.3701
+},
+{
+  "name": "Daleczkąt",
+  "countryCode": "PL",
+  "latitude": 51.4667,
+  "longitude": 23.0667
+},
+{
+  "name": "Encinal Y Buena Esperanga",
+  "countryCode": "US",
+  "latitude": 36.615,
+  "longitude": -121.493
+},
+{
+  "name": "Fatḩ‘alī-ye Solţānlū",
+  "countryCode": "IR",
+  "latitude": 39.1433,
+  "longitude": 47.215
+},
+{
+  "name": "Sallekuna",
+  "countryCode": "NP",
+  "latitude": 27.9583,
+  "longitude": 82.747
+},
+{
+  "name": "Progreso",
+  "countryCode": "MX",
+  "latitude": 20.4403,
+  "longitude": -97.3129
+},
+{
+  "name": "Neuhof",
+  "countryCode": "DE",
+  "latitude": 49.3148,
+  "longitude": 9.5147
+},
+{
+  "name": "Dongoro Nding",
+  "countryCode": "GM",
+  "latitude": 13.4667,
+  "longitude": -15.2167
+},
+{
+  "name": "Varmo",
+  "countryCode": "IT",
+  "latitude": 45.887,
+  "longitude": 12.9877
+},
+{
+  "name": "Guadalupe Tlalpan",
+  "countryCode": "MX",
+  "latitude": 19.288,
+  "longitude": -99.1466
+},
+{
+  "name": "Nyevili",
+  "countryCode": "GH",
+  "latitude": 10.8707,
+  "longitude": -2.462
+},
+{
+  "name": "Vulmont",
+  "countryCode": "FR",
+  "latitude": 48.9251,
+  "longitude": 6.303
+},
+{
+  "name": "Rotmühle",
+  "countryCode": "DE",
+  "latitude": 49.2418,
+  "longitude": 9.9648
+},
+{
+  "name": "Semara",
+  "countryCode": "NP",
+  "latitude": 27.3568,
+  "longitude": 83.3164
+},
+{
+  "name": "Klanice",
+  "countryCode": "HR",
+  "latitude": 45.1316,
+  "longitude": 14.5825
+},
+{
+  "name": "Higueron",
+  "countryCode": "PA",
+  "latitude": 9.0155,
+  "longitude": -80.0415
+},
+{
+  "name": "Charnay-lès-Mâcon",
+  "countryCode": "FR",
+  "latitude": 46.3075,
+  "longitude": 4.7848
+},
+{
+  "name": "Aul Omarov",
+  "countryCode": "RU",
+  "latitude": 55.6383,
+  "longitude": 69.615
+},
+{
+  "name": "Mirotice",
+  "countryCode": "CZ",
+  "latitude": 49.4235,
+  "longitude": 14.0224
+},
+{
+  "name": "Colombier",
+  "countryCode": "FR",
+  "latitude": 46.2735,
+  "longitude": 2.7944
+},
+{
+  "name": "Utsjoki",
+  "countryCode": "FI",
+  "latitude": 69.9092,
+  "longitude": 27.0286
+},
+{
+  "name": "Zbroszki",
+  "countryCode": "PL",
+  "latitude": 52.6483,
+  "longitude": 20.9635
+},
+{
+  "name": "Margaretenhütte",
+  "countryCode": "DE",
+  "latitude": 51.25,
+  "longitude": 14.45
+},
+{
+  "name": "Brier Hill",
+  "countryCode": "US",
+  "latitude": 44.5315,
+  "longitude": -75.6627
+},
+{
+  "name": "Thittawelgala",
+  "countryCode": "LK",
+  "latitude": 7.6596,
+  "longitude": 80.3889
+},
+{
+  "name": "Wetterstation Beechworth Woolshed",
+  "countryCode": "AU",
+  "latitude": -36.3167,
+  "longitude": 146.667
+},
+{
+  "name": "Vernet",
+  "countryCode": "FR",
+  "latitude": 46.22,
+  "longitude": 3.2816
+},
+{
+  "name": "Högahult",
+  "countryCode": "SE",
+  "latitude": 56.2667,
+  "longitude": 13.7333
+},
+{
+  "name": "Einsiedl",
+  "countryCode": "AT",
+  "latitude": 48.2671,
+  "longitude": 15.9714
+},
+{
+  "name": "Villa",
+  "countryCode": "HU",
+  "latitude": 47.4833,
+  "longitude": 18.6333
+},
+{
+  "name": "Wanduressa7",
+  "countryCode": "LK",
+  "latitude": 7.6058,
+  "longitude": 79.9947
+},
+{
+  "name": "Manhwa-ri",
+  "countryCode": "KR",
+  "latitude": 36.5709,
+  "longitude": 128.3655
+},
+{
+  "name": "Giglio",
+  "countryCode": "IT",
+  "latitude": 41.5228,
+  "longitude": 12.7288
+},
+{
+  "name": "Golla",
+  "countryCode": "NP",
+  "latitude": 27.9857,
+  "longitude": 84.3169
+},
+{
+  "name": "Vranov",
+  "countryCode": "CZ",
+  "latitude": 50.6656,
+  "longitude": 14.7525
+},
+{
+  "name": "Kvasovo",
+  "countryCode": "RU",
+  "latitude": 55.45,
+  "longitude": 33.4
+},
+{
+  "name": "Arrigas",
+  "countryCode": "FR",
+  "latitude": 43.989,
+  "longitude": 3.4808
+},
+{
+  "name": "Freiberg am Neckar",
+  "countryCode": "DE",
+  "latitude": 48.932,
+  "longitude": 9.2024
+},
+{
+  "name": "Village of Haviland",
+  "countryCode": "US",
+  "latitude": 41.0178,
+  "longitude": -84.5853
+},
+{
+  "name": "Baima",
+  "countryCode": "CN",
+  "latitude": 27.08,
+  "longitude": 102.097
+},
+{
+  "name": "Haiba küla",
+  "countryCode": "EE",
+  "latitude": 59.1322,
+  "longitude": 24.465
+},
+{
+  "name": "Rebentão",
+  "countryCode": "PT",
+  "latitude": 39.0767,
+  "longitude": -28.0194
+},
+{
+  "name": "Nerla",
+  "countryCode": "IN",
+  "latitude": 17.0906,
+  "longitude": 74.2246
+},
+{
+  "name": "Playas",
+  "countryCode": "PE",
+  "latitude": -8.4153,
+  "longitude": -77.2933
+},
+{
+  "name": "Marofinaritra",
+  "countryCode": "MG",
+  "latitude": -15.703,
+  "longitude": 50.3513
+},
+{
+  "name": "Bahçedere",
+  "countryCode": "TR",
+  "latitude": 36.3629,
+  "longitude": 33.8689
+},
+{
+  "name": "Er Ramlîyé",
+  "countryCode": "LB",
+  "latitude": 33.7481,
+  "longitude": 35.6511
+},
+{
+  "name": "Yongmun-dong",
+  "countryCode": "KR",
+  "latitude": 37.5381,
+  "longitude": 126.9584
+},
+{
+  "name": "Khuem Yai",
+  "countryCode": "TH",
+  "latitude": 15.9441,
+  "longitude": 104.7507
+},
+{
+  "name": "Miarinarivo",
+  "countryCode": "MG",
+  "latitude": -18.9587,
+  "longitude": 46.9055
+},
+{
+  "name": "Ejido El Gato",
+  "countryCode": "MX",
+  "latitude": 30.8,
+  "longitude": -111.6167
+},
+{
+  "name": "Steensrade",
+  "countryCode": "DE",
+  "latitude": 53.7925,
+  "longitude": 10.4445
+},
+{
+  "name": "Corni",
+  "countryCode": "RO",
+  "latitude": 47.4783,
+  "longitude": 23.019
+},
+{
+  "name": "Mileoak Corner",
+  "countryCode": "US",
+  "latitude": 42.1079,
+  "longitude": -72.4368
+},
+{
+  "name": "Desa Plososari",
+  "countryCode": "ID",
+  "latitude": -7.1258,
+  "longitude": 110.0408
+},
+{
+  "name": "Pritsepilovka",
+  "countryCode": "RU",
+  "latitude": 50.7482,
+  "longitude": 37.458
+},
+{
+  "name": "Ossago Lodigiano",
+  "countryCode": "IT",
+  "latitude": 45.2457,
+  "longitude": 9.5371
+},
+{
+  "name": "Durgāpur",
+  "countryCode": "BD",
+  "latitude": 23.2837,
+  "longitude": 89.8256
+},
+{
+  "name": "Cortezorrinha",
+  "countryCode": "PT",
+  "latitude": 37.5585,
+  "longitude": -8.1458
+},
+{
+  "name": "Desa Sliyeg",
+  "countryCode": "ID",
+  "latitude": -6.4617,
+  "longitude": 108.3522
+},
+{
+  "name": "Pringle",
+  "countryCode": "US",
+  "latitude": 41.2781,
+  "longitude": -75.8971
+},
+{
+  "name": "Kerklis",
+  "countryCode": "LK",
+  "latitude": 6.993,
+  "longitude": 80.9456
+},
+{
+  "name": "Gheaba",
+  "countryCode": "RO",
+  "latitude": 45.3092,
+  "longitude": 26.0063
+},
+{
+  "name": "Unterschlatt",
+  "countryCode": "CH",
+  "latitude": 47.6628,
+  "longitude": 8.704
+},
+{
+  "name": "Kilometro 44",
+  "countryCode": "PY",
+  "latitude": -25.4015,
+  "longitude": -55.0476
+},
+{
+  "name": "Doboj",
+  "countryCode": "BA",
+  "latitude": 43.1516,
+  "longitude": 17.8355
+},
+{
+  "name": "Colonia del Zapote",
+  "countryCode": "MX",
+  "latitude": 20.4446,
+  "longitude": -97.3286
+},
+{
+  "name": "Fakel Sotsializma",
+  "countryCode": "RU",
+  "latitude": 52.0167,
+  "longitude": 81.9167
+},
+{
+  "name": "Contone",
+  "countryCode": "CH",
+  "latitude": 46.1509,
+  "longitude": 8.9262
+},
+{
+  "name": "Omar",
+  "countryCode": "US",
+  "latitude": 37.5017,
+  "longitude": -88.9687
+},
+{
+  "name": "Dhangneta",
+  "countryCode": "NP",
+  "latitude": 29.0022,
+  "longitude": 81.253
+},
+{
+  "name": "Cossé",
+  "countryCode": "FR",
+  "latitude": 47.1623,
+  "longitude": -0.3598
+},
+{
+  "name": "Ceramida-Pellegrina",
+  "countryCode": "IT",
+  "latitude": 38.2967,
+  "longitude": 15.8257
+},
+{
+  "name": "Balzenbüel",
+  "countryCode": "CH",
+  "latitude": 47.3028,
+  "longitude": 8.8597
+},
+{
+  "name": "Crawford",
+  "countryCode": "US",
+  "latitude": 33.3015,
+  "longitude": -88.6148
+},
+{
+  "name": "Kampung Tii",
+  "countryCode": "ID",
+  "latitude": -4.8306,
+  "longitude": 138.775
+},
+{
+  "name": "Pashmak-e Tūqtamesh",
+  "countryCode": "IR",
+  "latitude": 37.1645,
+  "longitude": 55.1964
+},
+{
+  "name": "Cesenatico",
+  "countryCode": "IT",
+  "latitude": 44.1999,
+  "longitude": 12.3991
+},
+{
+  "name": "Supon’",
+  "countryCode": "RU",
+  "latitude": 53.9783,
+  "longitude": 38.139
+},
+{
+  "name": "Dingzhou",
+  "countryCode": "TW",
+  "latitude": 23.2881,
+  "longitude": 120.2033
+},
+{
+  "name": "L'Olme",
+  "countryCode": "FR",
+  "latitude": 45.594,
+  "longitude": 4.0539
+},
+{
+  "name": "Zhongshacun",
+  "countryCode": "CN",
+  "latitude": 18.8031,
+  "longitude": 108.7739
+},
+{
+  "name": "Chiani",
+  "countryCode": "IT",
+  "latitude": 43.4667,
+  "longitude": 11.8167
+},
+{
+  "name": "Gornăcel",
+  "countryCode": "RO",
+  "latitude": 45.1731,
+  "longitude": 23.348
+},
+{
+  "name": "Ponggae-dong",
+  "countryCode": "KR",
+  "latitude": 33.4908,
+  "longitude": 126.5944
+},
+{
+  "name": "Severnyy",
+  "countryCode": "RU",
+  "latitude": 67.6022,
+  "longitude": 64.1136
+},
+{
+  "name": "Bidem",
+  "countryCode": "CH",
+  "latitude": 46.6084,
+  "longitude": 8.0109
+},
+{
+  "name": "Nong Yang Chin",
+  "countryCode": "TH",
+  "latitude": 17.0202,
+  "longitude": 104.6977
+},
+{
+  "name": "Grügelborn",
+  "countryCode": "DE",
+  "latitude": 49.5157,
+  "longitude": 7.2069
+},
+{
+  "name": "Town of Carefree",
+  "countryCode": "US",
+  "latitude": 33.8234,
+  "longitude": -111.9161
+},
+{
+  "name": "Hidalgo del Valle",
+  "countryCode": "MX",
+  "latitude": 21.1536,
+  "longitude": -101.6662
+},
+{
+  "name": "Klaarwater",
+  "countryCode": "NL",
+  "latitude": 52.1738,
+  "longitude": 5.485
+},
+{
+  "name": "Beechingstoke",
+  "countryCode": "GB",
+  "latitude": 51.3323,
+  "longitude": -1.8761
+},
+{
+  "name": "Bösinghausen",
+  "countryCode": "DE",
+  "latitude": 51.5658,
+  "longitude": 10.06
+},
+{
+  "name": "Pampa Hermosa",
+  "countryCode": "PE",
+  "latitude": -7.3026,
+  "longitude": -75.7697
+},
+{
+  "name": "Estate Cotton Garden",
+  "countryCode": "VI",
+  "latitude": 17.7591,
+  "longitude": -64.5815
+},
+{
+  "name": "Polingsgat",
+  "countryCode": "BE",
+  "latitude": 51.2333,
+  "longitude": 4.25
+},
+{
+  "name": "Wetterstation Artemivs'k",
+  "countryCode": "UA",
+  "latitude": 48.6,
+  "longitude": 37.9833
+},
+{
+  "name": "Urbanización Pro",
+  "countryCode": "PE",
+  "latitude": -11.9309,
+  "longitude": -77.0748
+},
+{
+  "name": "Tella e Begaje",
+  "countryCode": "AL",
+  "latitude": 42.4531,
+  "longitude": 20.1116
+},
+{
+  "name": "Pīleh Shahrān",
+  "countryCode": "IR",
+  "latitude": 37.8447,
+  "longitude": 48.157
+},
+{
+  "name": "San Pedro 1",
+  "countryCode": "PY",
+  "latitude": -26.5881,
+  "longitude": -55.2757
+},
+{
+  "name": "St. Niklausen OW",
+  "countryCode": "CH",
+  "latitude": 46.8748,
+  "longitude": 8.2822
+},
+{
+  "name": "Dayr Ishmān",
+  "countryCode": "SY",
+  "latitude": 35.975,
+  "longitude": 36.3333
+},
+{
+  "name": "Oring",
+  "countryCode": "PH",
+  "latitude": 13.9059,
+  "longitude": 123.8333
+},
+{
+  "name": "Kaganza",
+  "countryCode": "BI",
+  "latitude": -4.0851,
+  "longitude": 29.5946
+},
+{
+  "name": "San Camilo",
+  "countryCode": "VE",
+  "latitude": 7.3483,
+  "longitude": -71.2839
+},
+{
+  "name": "Laukstučiai",
+  "countryCode": "LT",
+  "latitude": 56.0237,
+  "longitude": 22.8483
+},
+{
+  "name": "Huebwis",
+  "countryCode": "CH",
+  "latitude": 47.2671,
+  "longitude": 8.9313
+},
+{
+  "name": "La Concepción",
+  "countryCode": "HN",
+  "latitude": 14.7,
+  "longitude": -86.2333
+},
+{
+  "name": "Calumet",
+  "countryCode": "US",
+  "latitude": 47.2466,
+  "longitude": -88.454
+},
+{
+  "name": "Krasnaya Niva",
+  "countryCode": "RU",
+  "latitude": 53.0931,
+  "longitude": 35.3833
+},
+{
+  "name": "Ciudad Jardín",
+  "countryCode": "ES",
+  "latitude": 37.6114,
+  "longitude": -0.9859
+},
+{
+  "name": "Sanwoldong",
+  "countryCode": "KR",
+  "latitude": 35.2006,
+  "longitude": 126.8533
+},
+{
+  "name": "Posëlok Chetvërtogo Uchastka",
+  "countryCode": "RU",
+  "latitude": 58.6833,
+  "longitude": 45.8333
+},
+{
+  "name": "Kondurchinskiy",
+  "countryCode": "RU",
+  "latitude": 53.5243,
+  "longitude": 50.3551
+},
+{
+  "name": "Kleinberkenthin",
+  "countryCode": "DE",
+  "latitude": 53.7333,
+  "longitude": 10.65
+},
+{
+  "name": "Paseban",
+  "countryCode": "NP",
+  "latitude": 27.5853,
+  "longitude": 85.9052
+},
+{
+  "name": "Kaoh Kaev",
+  "countryCode": "KH",
+  "latitude": 11.4378,
+  "longitude": 105.2237
+},
+{
+  "name": "Malika",
+  "countryCode": "MW",
+  "latitude": -15.2833,
+  "longitude": 35.4167
+},
+{
+  "name": "Xã Nam Sơn",
+  "countryCode": "VN",
+  "latitude": 18.9008,
+  "longitude": 105.2458
+},
+{
+  "name": "Case le Volpere",
+  "countryCode": "IT",
+  "latitude": 45.7461,
+  "longitude": 12.2284
+},
+{
+  "name": "Quirnheim",
+  "countryCode": "DE",
+  "latitude": 49.5844,
+  "longitude": 8.1264
+},
+{
+  "name": "Ikare",
+  "countryCode": "NG",
+  "latitude": 7.5259,
+  "longitude": 5.7534
+},
+{
+  "name": "Takovishche",
+  "countryCode": "BY",
+  "latitude": 53.1345,
+  "longitude": 27.7416
+},
+{
+  "name": "Bravicea",
+  "countryCode": "MD",
+  "latitude": 47.3608,
+  "longitude": 28.4365
+},
+{
+  "name": "Paikoro",
+  "countryCode": "NG",
+  "latitude": 9.4681,
+  "longitude": 6.8557
+},
+{
+  "name": "Nanshi Village",
+  "countryCode": "TW",
+  "latitude": 24.5325,
+  "longitude": 120.7958
+},
+{
+  "name": "Abane Ramdane",
+  "countryCode": "DZ",
+  "latitude": 35.9276,
+  "longitude": 0.0996
+},
+{
+  "name": "Township of Olive",
+  "countryCode": "US",
+  "latitude": 36.3806,
+  "longitude": -97.5142
+},
+{
+  "name": "Melville Village",
+  "countryCode": "US",
+  "latitude": 41.1912,
+  "longitude": -73.2346
+},
+{
+  "name": "México",
+  "countryCode": "MX",
+  "latitude": 20.5593,
+  "longitude": -97.472
+},
+{
+  "name": "Ermenibazar",
+  "countryCode": "AZ",
+  "latitude": 40.722,
+  "longitude": 47.2207
+},
+{
+  "name": "Bhalukholagaun",
+  "countryCode": "NP",
+  "latitude": 27.2269,
+  "longitude": 86.4071
+},
+{
+  "name": "Bolberg",
+  "countryCode": "NL",
+  "latitude": 51.5342,
+  "longitude": 4.9347
+},
+{
+  "name": "Leumeah",
+  "countryCode": "AU",
+  "latitude": -34.05,
+  "longitude": 150.8333
+},
+{
+  "name": "Gimamanay",
+  "countryCode": "PH",
+  "latitude": 11.4243,
+  "longitude": 123.074
+},
+{
+  "name": "Kolbīd",
+  "countryCode": "IR",
+  "latitude": 34.2408,
+  "longitude": 49.2416
+},
+{
+  "name": "Jaubari",
+  "countryCode": "NP",
+  "latitude": 28.1156,
+  "longitude": 84.6503
+},
+{
+  "name": "Dióspuszta",
+  "countryCode": "HU",
+  "latitude": 46.1344,
+  "longitude": 17.7286
+},
+{
+  "name": "Las Bocas",
+  "countryCode": "MX",
+  "latitude": 24.023,
+  "longitude": -103.04
+},
+{
+  "name": "Tulsibari",
+  "countryCode": "NP",
+  "latitude": 26.4572,
+  "longitude": 88.014
+},
+{
+  "name": "Ban Tha Chang",
+  "countryCode": "TH",
+  "latitude": 13.5911,
+  "longitude": 101.5118
+},
+{
+  "name": "Tiemengang",
+  "countryCode": "CN",
+  "latitude": 31.0403,
+  "longitude": 114.8468
+},
+{
+  "name": "Zapallo",
+  "countryCode": "PY",
+  "latitude": -25.3669,
+  "longitude": -55.474
+},
+{
+  "name": "Niumalu",
+  "countryCode": "US",
+  "latitude": 21.9495,
+  "longitude": -159.3644
+},
+{
+  "name": "Trnovo",
+  "countryCode": "SK",
+  "latitude": 49.0158,
+  "longitude": 18.8586
+},
+{
+  "name": "Rublëvo",
+  "countryCode": "RU",
+  "latitude": 55.7851,
+  "longitude": 37.3548
+},
+{
+  "name": "Ambodipont",
+  "countryCode": "MG",
+  "latitude": -14.0127,
+  "longitude": 49.9813
+},
+{
+  "name": "San Martiño de Berredo",
+  "countryCode": "ES",
+  "latitude": 42.1424,
+  "longitude": -7.8934
+},
+{
+  "name": "Lūgeliai",
+  "countryCode": "LT",
+  "latitude": 55.6365,
+  "longitude": 26.2975
+},
+{
+  "name": "Bou Parfait",
+  "countryCode": "HT",
+  "latitude": 18.6833,
+  "longitude": -72.0833
+},
+{
+  "name": "Tusarpani",
+  "countryCode": "NP",
+  "latitude": 28.1945,
+  "longitude": 82.6441
+},
+{
+  "name": "Overisel",
+  "countryCode": "US",
+  "latitude": 42.7284,
+  "longitude": -86.0098
+},
+{
+  "name": "Town of Warrenton",
+  "countryCode": "US",
+  "latitude": 38.7177,
+  "longitude": -77.7973
+},
+{
+  "name": "Sanghwagye-ri",
+  "countryCode": "KR",
+  "latitude": 37.7106,
+  "longitude": 127.8515
+},
+{
+  "name": "Town of Knightstown",
+  "countryCode": "US",
+  "latitude": 39.7959,
+  "longitude": -85.5312
+},
+{
+  "name": "La Cabirmota",
+  "countryCode": "DO",
+  "latitude": 19.307,
+  "longitude": -70.6044
+},
+{
+  "name": "Laue",
+  "countryCode": "DE",
+  "latitude": 51.557,
+  "longitude": 12.3887
+},
+{
+  "name": "Yorckgebiet",
+  "countryCode": "DE",
+  "latitude": 50.8331,
+  "longitude": 12.9608
+},
+{
+  "name": "Hitzerode",
+  "countryCode": "DE",
+  "latitude": 51.2405,
+  "longitude": 9.9581
+},
+{
+  "name": "Lukač",
+  "countryCode": "HR",
+  "latitude": 45.8725,
+  "longitude": 17.4194
+},
+{
+  "name": "Cremin",
+  "countryCode": "ZA",
+  "latitude": -28.4468,
+  "longitude": 29.945
+},
+{
+  "name": "Sulky",
+  "countryCode": "AU",
+  "latitude": -37.4658,
+  "longitude": 143.8528
+},
+{
+  "name": "Rietondale",
+  "countryCode": "ZA",
+  "latitude": -25.731,
+  "longitude": 28.224
+},
+{
+  "name": "Dandatol",
+  "countryCode": "NP",
+  "latitude": 26.7874,
+  "longitude": 86.5213
+},
+{
+  "name": "Jainagar",
+  "countryCode": "IN",
+  "latitude": 26.5806,
+  "longitude": 86.1408
+},
+{
+  "name": "Bazlovo",
+  "countryCode": "RU",
+  "latitude": 56.4961,
+  "longitude": 30.0201
+},
+{
+  "name": "Haberl",
+  "countryCode": "AT",
+  "latitude": 47.4892,
+  "longitude": 16.0873
+},
+{
+  "name": "Avaudden",
+  "countryCode": "SE",
+  "latitude": 66.4333,
+  "longitude": 20.6667
+},
+{
+  "name": "Campiglio",
+  "countryCode": "IT",
+  "latitude": 44.4719,
+  "longitude": 10.9753
+},
+{
+  "name": "Secuieni",
+  "countryCode": "RO",
+  "latitude": 46.65,
+  "longitude": 27.1
+},
+{
+  "name": "Loz’ya",
+  "countryCode": "RU",
+  "latitude": 54.7008,
+  "longitude": 33.4789
+},
+{
+  "name": "Glashatay",
+  "countryCode": "BG",
+  "latitude": 43.05,
+  "longitude": 26.2333
+},
+{
+  "name": "Farallon Island",
+  "countryCode": "US",
+  "latitude": 37.699,
+  "longitude": -123.0016
+},
+{
+  "name": "Kelurahan Pasang",
+  "countryCode": "ID",
+  "latitude": -3.1469,
+  "longitude": 119.8189
+},
+{
+  "name": "Ferney-Voltaire",
+  "countryCode": "FR",
+  "latitude": 46.2558,
+  "longitude": 6.1081
+},
+{
+  "name": "Frauendamm",
+  "countryCode": "DE",
+  "latitude": 54.3341,
+  "longitude": 9.9147
+},
+{
+  "name": "Peraleja",
+  "countryCode": "ES",
+  "latitude": 39.5167,
+  "longitude": -1.8
+},
+{
+  "name": "Såböle",
+  "countryCode": "SE",
+  "latitude": 63.35,
+  "longitude": 13.1833
+},
+{
+  "name": "Mid-America Industrial Flughafen",
+  "countryCode": "US",
+  "latitude": 36.2315,
+  "longitude": -95.3335
+},
+{
+  "name": "Moshkino",
+  "countryCode": "RU",
+  "latitude": 56.8929,
+  "longitude": 43.6306
+},
+{
+  "name": "Ebenschwand",
+  "countryCode": "DE",
+  "latitude": 47.565,
+  "longitude": 9.8387
+},
+{
+  "name": "Novoye",
+  "countryCode": "RU",
+  "latitude": 53.4788,
+  "longitude": 79.4426
+},
+{
+  "name": "Kalayaan Subdivision",
+  "countryCode": "PH",
+  "latitude": 14.4075,
+  "longitude": 120.9762
+},
+{
+  "name": "Ojŏn",
+  "countryCode": "KR",
+  "latitude": 35.5003,
+  "longitude": 127.8875
+},
+{
+  "name": "Sant'Ignazio",
+  "countryCode": "IT",
+  "latitude": 38.1485,
+  "longitude": 14.898
+},
+{
+  "name": "Calatayud",
+  "countryCode": "ES",
+  "latitude": 41.3535,
+  "longitude": -1.6432
+},
+{
+  "name": "Kumpula",
+  "countryCode": "FI",
+  "latitude": 66.6667,
+  "longitude": 27.5833
+},
+{
+  "name": "Seda",
+  "countryCode": "LV",
+  "latitude": 57.6528,
+  "longitude": 25.75
+},
+{
+  "name": "Gros Bois",
+  "countryCode": "HT",
+  "latitude": 18.2667,
+  "longitude": -72.25
+},
+{
+  "name": "Borkowice",
+  "countryCode": "PL",
+  "latitude": 50.941,
+  "longitude": 18.1579
+},
+{
+  "name": "Tõlli küla",
+  "countryCode": "EE",
+  "latitude": 58.314,
+  "longitude": 24.0334
+},
+{
+  "name": "Lehnerz",
+  "countryCode": "DE",
+  "latitude": 50.5758,
+  "longitude": 9.7016
+},
+{
+  "name": "Valbroye",
+  "countryCode": "CH",
+  "latitude": 46.7249,
+  "longitude": 6.892
+},
+{
+  "name": "Mahazoarivo",
+  "countryCode": "MG",
+  "latitude": -24.238,
+  "longitude": 45.6056
+},
+{
+  "name": "Nordborchen",
+  "countryCode": "DE",
+  "latitude": 51.6704,
+  "longitude": 8.7261
+},
+{
+  "name": "Seoce",
+  "countryCode": "BA",
+  "latitude": 44.0899,
+  "longitude": 18.1767
+},
+{
+  "name": "Njiverice",
+  "countryCode": "BA",
+  "latitude": 44.567,
+  "longitude": 19.106
+},
+{
+  "name": "Char Chākla",
+  "countryCode": "BD",
+  "latitude": 24.1276,
+  "longitude": 88.9194
+},
+{
+  "name": "Ganigarpet",
+  "countryCode": "IN",
+  "latitude": 12.9681,
+  "longitude": 77.582
+},
+{
+  "name": "Infanta",
+  "countryCode": "ZA",
+  "latitude": -34.4209,
+  "longitude": 20.8543
+},
+{
+  "name": "Sifen",
+  "countryCode": "CN",
+  "latitude": 42.0658,
+  "longitude": 119.8481
+},
+{
+  "name": "Kleverberg",
+  "countryCode": "DE",
+  "latitude": 53.7338,
+  "longitude": 9.0274
+},
+{
+  "name": "Town of Rennert",
+  "countryCode": "US",
+  "latitude": 34.8141,
+  "longitude": -79.0791
+},
+{
+  "name": "Madogara",
+  "countryCode": "NG",
+  "latitude": 12.7319,
+  "longitude": 7.158
+},
+{
+  "name": "San Javier De Alpabamba",
+  "countryCode": "PE",
+  "latitude": -15.0482,
+  "longitude": -73.2944
+},
+{
+  "name": "An Nikāshah",
+  "countryCode": "SA",
+  "latitude": 21.3871,
+  "longitude": 39.8052
+},
+{
+  "name": "Halistra",
+  "countryCode": "GB",
+  "latitude": 57.55,
+  "longitude": -6.6
+},
+{
+  "name": "Josnes",
+  "countryCode": "FR",
+  "latitude": 47.7964,
+  "longitude": 1.5244
+},
+{
+  "name": "Kecamatan Nunukan Selatan",
+  "countryCode": "ID",
+  "latitude": 4.0519,
+  "longitude": 117.6972
+},
+{
+  "name": "Ilyova Mahala",
+  "countryCode": "BG",
+  "latitude": 42.571,
+  "longitude": 22.6707
+},
+{
+  "name": "Fomishchevo",
+  "countryCode": "RU",
+  "latitude": 54.4743,
+  "longitude": 37.0314
+},
+{
+  "name": "Nuarbe",
+  "countryCode": "ES",
+  "latitude": 43.1343,
+  "longitude": -2.2324
+},
+{
+  "name": "Chassors",
+  "countryCode": "FR",
+  "latitude": 45.6972,
+  "longitude": -0.2101
+},
+{
+  "name": "Nueva Morelos",
+  "countryCode": "MX",
+  "latitude": 18.8226,
+  "longitude": -99.2453
+},
+{
+  "name": "Neue Buden",
+  "countryCode": "DE",
+  "latitude": 51.55,
+  "longitude": 14.2333
+},
+{
+  "name": "Guaragi",
+  "countryCode": "BR",
+  "latitude": -25.2739,
+  "longitude": -50.2369
+},
+{
+  "name": "Androva",
+  "countryCode": "MG",
+  "latitude": -18.0395,
+  "longitude": 46.7445
+},
+{
+  "name": "Blagodat’",
+  "countryCode": "RU",
+  "latitude": 54.6946,
+  "longitude": 37.2578
+},
+{
+  "name": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+  "countryCode": "MX",
+  "latitude": 20.073,
+  "longitude": -98.775
+},
+{
+  "name": "Ust’-Utyak",
+  "countryCode": "RU",
+  "latitude": 55.2751,
+  "longitude": 65.3028
+},
+{
+  "name": "Padesaini",
+  "countryCode": "NP",
+  "latitude": 29.3704,
+  "longitude": 80.4041
+},
+{
+  "name": "Städten",
+  "countryCode": "DE",
+  "latitude": 51.1769,
+  "longitude": 11.7045
+},
+{
+  "name": "Récourt",
+  "countryCode": "FR",
+  "latitude": 47.9582,
+  "longitude": 5.5042
+},
+{
+  "name": "Hariharpur",
+  "countryCode": "NP",
+  "latitude": 28.0856,
+  "longitude": 81.8452
+},
+{
+  "name": "Lost Creek",
+  "countryCode": "US",
+  "latitude": 39.1612,
+  "longitude": -80.352
+},
+{
+  "name": "Annaghbrack",
+  "countryCode": "IE",
+  "latitude": 53.1803,
+  "longitude": -7.5767
+},
+{
+  "name": "Zamoshitsa",
+  "countryCode": "RU",
+  "latitude": 56.0742,
+  "longitude": 29.5435
+},
+{
+  "name": "Madsen Flughafen",
+  "countryCode": "US",
+  "latitude": 44.3478,
+  "longitude": -105.3398
+},
+{
+  "name": "Morozzo",
+  "countryCode": "IT",
+  "latitude": 44.4228,
+  "longitude": 7.7101
+},
+{
+  "name": "Honigmühle",
+  "countryCode": "DE",
+  "latitude": 50.514,
+  "longitude": 8.4907
+},
+{
+  "name": "Albergo del Ghertele",
+  "countryCode": "IT",
+  "latitude": 45.9333,
+  "longitude": 11.4333
+},
+{
+  "name": "Buraza",
+  "countryCode": "BI",
+  "latitude": -3.7626,
+  "longitude": 29.8966
+},
+{
+  "name": "Taxiatosh Shahri",
+  "countryCode": "UZ",
+  "latitude": 42.3425,
+  "longitude": 59.57
+}]
