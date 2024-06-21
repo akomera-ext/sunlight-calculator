@@ -25,6 +25,9 @@ npm run dev
 
 ### Example usage of the function
 const date = new Date("2024-03-02");// Example date, change as needed
-findLongestDaylightPlace(date);
+
+const topN = 1;// to retrieve the top location 
+
+findLongestDaylightPlace(date, topN);
 
 
